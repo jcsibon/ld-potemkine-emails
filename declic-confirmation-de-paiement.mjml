@@ -27,10 +27,10 @@
             Bonjour Prénom Nom,
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous venons de recevoir la validation de votre paiement pour votre commande référence WEB000000 effectuée le 00/00/2017 à 00h00, pour un montant totat de 0 000,00 € TTC.
+            Nous venons de recevoir la validation de votre paiement pour votre commande référence WEB000000 effectuée le 00/00/2017 à 00h00, pour un montant total de 0 000,00 € TTC.
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Vous recevrez prochainement un email attestant de la bonne prise en compte de votre commande par le magasin.
+            Vous recevrez dans les prochaines minutes un autre email attestant de la bonne prise en compte de votre commande par le magasin.
           </mj-text>
         </mj-column>
       </mj-section>
