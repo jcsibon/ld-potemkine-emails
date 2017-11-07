@@ -3,7 +3,7 @@
   <mj-head>
 
     <mj-attributes>
-      <mj-text align="center" color="#555" />
+      <mj-text align="center" color="#555" font-family="Arial" />
       <mj-container background-color="#fff" />
       <mj-section background-color="#fff" />
     </mj-attributes>
@@ -14,36 +14,338 @@
     <mj-container>
       <mj-section padding-top="10">
         <mj-column>
+          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
+            Votre offre du mois de Mai.
+          </mj-text>
 
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/confirmation-de-commande/banner.png" padding="0" />
-
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="#" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
         </mj-column>
 
       </mj-section>
-      <!--
-      <mj-section>
+
+      <mj-section padding-top="0">
         <mj-column>
-          <mj-table>
-            <tr>
-              <th style="padding: 0 15px 0 0;">Year</th>
-              <th style="padding: 0 15px;">Language</th>
-              <th style="padding: 0 0 0 15px;">Inspired from</th>
-            </tr>
-            <tr>
-              <td style="padding: 0 15px 0 0;">1995</td>
-              <td style="padding: 0 15px;">PHP</td>
-              <td style="padding: 0 0 0 15px;">C, Shell Unix</td>
-            </tr>
-            <tr>
-              <td style="padding: 0 15px 0 0;">1995</td>
-              <td style="padding: 0 15px;">JavaScript</td>
-              <td style="padding: 0 0 0 15px;">Scheme, Self</td>
-            </tr>
-          </mj-table>
+
+          <mj-image width="600" src="img/confirmation_commande/banner.png" padding="0" />
+
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="30" padding-top="20">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Bonjour Prénom NOM,
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Merci pour votre confiance !
+          </mj-text>
+          <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Vous trouverez ci-dessous le détail de votre commande ABCDEFGH.
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Vous pouvez dès à présent suivre l'avancement de votre commande dans la rubrique « Suivi de commande » du site <a href="https://www.lapeyre.fr/" style="color:#ea0028;">lapeyre.fr</a> ou contacter directement votre magasin.
+          </mj-text>
         </mj-column>
       </mj-section>
-      -->
+
+      <mj-section padding-top="30">
+        <mj-column>
+
+          <mj-image width="498" src="img/confirmation_commande/titre.png" padding="0" />
+
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="41%" background-color="#ea0028">
+
+            <mj-text padding-top="20" padding-bottom="20" padding-left="15" font-size="16" text-transform="uppercase" color="#fff" font-weight="bold" align="left">
+              Total de la facture
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="41%" background-color="#ea0028">
+
+            <mj-text padding-top="20" padding-bottom="20" font-size="16" text-transform="uppercase" color="#fff" font-weight="bold" padding-right="15" align="right">
+              210,00 €
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="36%" background-color="#fff">
+
+            <mj-text padding-top="8" padding-bottom="8" font-size="11" text-transform="uppercase" padding-left="15" color="#404040" font-weight="600" align="left">
+              produit
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="16%" background-color="#fff">
+
+            <mj-text padding="0" padding-top="8" padding-bottom="8" font-size="11" text-transform="uppercase" color="#404040" font-weight="600" align="center">
+              prix unitaire
+            </mj-text>
+          </mj-column>
+          <mj-column width="15%" background-color="#fff">
+
+            <mj-text padding="0" padding-top="8" padding-bottom="8" font-size="11" text-transform="uppercase" color="#404040" font-weight="600" align="center">
+              quantité
+            </mj-text>
+          </mj-column>
+          <mj-column width="15%" background-color="#fff">
+
+            <mj-text padding="0" padding-top="8" padding-bottom="8" font-size="11" text-transform="uppercase" color="#404040" font-weight="600" align="center">
+              prix total
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="36%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding-top="8" padding-bottom="0" font-size="16" padding-left="15" color="#404040" font-weight="400" align="left">
+              Fenêtre classique PVC
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="8" font-size="12" padding-left="15" color="#404040" font-weight="400" align="left" height="21px">
+              Ref: 1234567
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="16%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" font-size="14" color="#404040" font-weight="400" align="center" height="33px">
+              105,5 €
+            </mj-text>
+          </mj-column>
+          <mj-column width="15%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center" height="33px">
+              2
+            </mj-text>
+          </mj-column>
+          <mj-column width="15%" background-color="#f8f8f8">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center" height="33px">
+              210,00 €
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="24%" background-color="#fff" border-top="1px solid #fff" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+          </mj-column>
+
+          <mj-column width="43%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="12" color="#404040" font-weight="400" align="left" height="33px">
+              Montant déjà réglé TTC
+            </mj-text>
+          </mj-column>
+          <mj-column width="15%" background-color="#f8f8f8">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center" height="33px">
+              210,00 €
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="24%" background-color="#fff" border-top="1px solid #fff" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+          </mj-column>
+
+          <mj-column width="43%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="12" color="#404040" font-weight="400" align="left" height="33px">
+              Montant restant à payer TTC
+            </mj-text>
+          </mj-column>
+          <mj-column width="15%" background-color="#f8f8f8">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center" height="33px">
+              0,00 €
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="30px">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+
+          <mj-column width="82%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="16" color="#404040" font-weight="400" align="left" height="33px">
+              Mode d’enlèvement de votre commande
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+
+          <mj-column width="82%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="12" color="#404040" font-weight="600" align="left" height="33px">
+              Par transporteur dans le magasin <span style="font-weight:400;">Lapeyre Les Halles</span>
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="10px">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center" height="33px">
+              Adresse de livraison
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center" height="33px">
+              Adresse de facturation
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="12" color="#404040" font-weight="400" align="center" text-decoration="underline">
+              Adresse de livraison
+            </mj-text>
+
+            <mj-text padding="0" padding-top="15" padding-bottom="0" padding-left="15px" font-size="16" color="#404040" font-weight="600" align="center">
+              M. Prénom NOM
+            </mj-text>
+
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              06 12 34 56 78
+            </mj-text>
+
+            <mj-text padding="0" padding-top="0" padding-bottom="8" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              prénomnom@gmail.com
+            </mj-text>
+
+            <mj-text padding="0" padding-top="7" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              12 rue Truc
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              Étage : RDC
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="20" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              75009 PARIS
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+
+            <mj-text padding="0" padding-top="18" padding-bottom="8" padding-left="15px" font-size="12" color="#404040" font-weight="400" align="center" text-decoration="underline">
+              Adresse de livraison
+            </mj-text>
+
+            <mj-text padding="0" padding-top="15" padding-bottom="0" padding-left="15px" font-size="16" color="#404040" font-weight="600" align="center">
+              M. Prénom NOM
+            </mj-text>
+
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              06 12 34 56 78
+            </mj-text>
+
+            <mj-text padding="0" padding-top="0" padding-bottom="8" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              prénomnom@gmail.com
+            </mj-text>
+
+            <mj-text padding="0" padding-top="7" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              12 rue Truc
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              Étage : RDC
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="20" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              75009 PARIS
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="50px" padding-bottom="40px">
+          <mj-column width="400">
+            <mj-text padding="0" padding-top="0" padding-bottom="20" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              Vous serez livré sous 14 jours à partir du 31/10/2017
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="20" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              Le magasin <span style="font-weight:600">Lapeyre Les Halles</span> prendra directement contact avec vous par téléphone pour convenir de la date et du créneau de livraison.
+            </mj-text>
+          </mj-column>
+      </mj-section>
+
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
         <mj-column width="220">
           <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
@@ -62,7 +364,7 @@
             <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.pinterest.fr/lapeyre/" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
             <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
@@ -84,4 +386,3 @@
   </mj-body>
 
 </mjml>
-
