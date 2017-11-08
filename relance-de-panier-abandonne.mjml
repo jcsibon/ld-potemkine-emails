@@ -1,0 +1,166 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+
+      <mj-section padding-top="10">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
+          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/relance-de-panier-abandonne/banner.png" padding="0" />
+
+        </mj-column>
+
+      </mj-section>
+
+
+
+
+
+
+      <mj-section padding="30" padding-top="20">
+        <mj-column>
+          <mj-text padding-bottom="0" font-size="20" color="#404040" align="left">
+            Bonjour,
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Nos produits vous ont séduit mais vous n'avez pas finalisé votre commande. N'attendez plus, ils sont disponibles en quelques clics !
+          </mj-text>
+
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Rendez-vous sur <a href="https://www.lapeyre.fr/monpanier" style="color:#ea0028;">https://www.lapeyre.fr/monpanier</a> pour finaliser votre achat.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="30">
+        <mj-column>
+
+          <mj-image width="498" src="img/relance-de-panier-abandonne/titre.png" padding="0" />
+
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="5%">
+          </mj-column>
+        <mj-column width="90%">
+          <mj-table>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Fenêtre 2 vantaux CLASSIC PVC Blanc H.117 x l.107 pour Tableau H.115 x l.100<br>Ref: 2186320 - 1 x 99,00 € 
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                99,00 € 
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Mitigeur lavabo petit modèle EUROMART 2 chrome<br>Ref: 1242163 - 2 x 79,00 €
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                79,00 €
+              </td>
+            </tr>
+            <tr style="background-color:#f8f8f8;">
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Carrelage CLUB blanc 33.3x66.4 ép.9 mm aspect naturel<br>1239721 - 1 x 26,16 €
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                26,16 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Parquet contrecollé CANYON chêne naturel brossé verni mat ép.14mm botte 1.37m2<br>Ref: 2513110 - 1 x 72,47 €
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                72,47 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Remise Anniversaire
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                - 100,00 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Coupon « NOELBIENFAIT »
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                - 50,00 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8b2be;font-family:Arial;font-weight:bold;text-transform:uppercase">
+                Sous-total
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8b2be;font-family:Arial;font-weight:bold;text-transform:uppercase;text-align:right;">
+                326,03 €
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+          <mj-column width="5%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-bottom="20" padding-top="20">
+      </mj-section>
+
+      <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://www.facebook.com/Lapeyre/" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
+            pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
+            vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations.
+            Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
