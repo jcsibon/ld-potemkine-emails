@@ -4,8 +4,8 @@
 
     <mj-attributes>
       <mj-text align="center" color="#555" font-family="Arial"/>
-      <mj-container background-color="#F8F8F8" />
-      <mj-section background-color="#F8F8F8" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
     </mj-attributes>
 
   </mj-head>
@@ -50,49 +50,71 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="600" src="img/reactivation/banner.png" padding="0" />
+          <mj-image width="600" src="img/invitation/banner.png" padding="0" />
 
         </mj-column>
 
       </mj-section>
 
-      <mj-section padding="30" padding-top="20" background-color="#F8F8F8">
+      <mj-section padding="30" padding-top="20">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
             Bonjour Jennifer,
           </mj-text>
-          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#40404" align="left">
-           Depuis quelques temps, vous ne lisez plus nos emails. Ils contiennent pourtant le meilleur de notre actualité, spécialement sélectionné pour vous : 
+          
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Suite à votre récent achat et à l’installation réalisée chez vous par notre magasin Lapeyre de Genevilliers, nous aimerions nous assurer de votre satisfaction et continuer à améliorer nos services.
+
           </mj-text>
-        
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0" padding-bottom="0">
-        <mj-column>
+      <mj-section padding="25" padding-top="20" padding-bottom="0" background-color="#404040">
 
-          <mj-image width="600" src="img/reactivation/illu.jpg" padding="0" />
-
+        <mj-column background-color="#404040" width="50%">
+          <mj-image width="245" src="img/invitation/texte.png" padding="0" padding-top="90px" padding-bottom="50" />
         </mj-column>
+        <mj-column width="50%" background-color="#404040">
+          <mj-text padding="40" font-weight="400" font-size="20" color="#fff" align="left">
+            Nous vous invitons 
+à répondre au questionnaire en cliquant sur le lien 
+ci-dessous.
+          </mj-text>
 
+          <mj-text padding="40" padding-left="0" font-weight="700" font-size="55" color="#fff" align="right" container-background-color="#AA192D">
+            <div style="display:inline-block; padding:0px; padding-right:15px">
+            	<img src="img/invitation/clock.png" style="width:45px;"/>
+            </div>
+            <div style="display:inline-block;">
+            	<span>400€</span></br>
+          <span style="font-weight:400; font-size:14px; ">d’avantage fidélité</span>
+            </div>
+          
+         </mj-text> 
+        </mj-column>
       </mj-section>
       
-			<mj-section padding="30" padding-top="20" background-color="#F8F8F8">
-        <mj-column>
-          <mj-text padding-top="50" padding-bottom="35px" font-size="20" color="#404040" align="center">
-            Alors, convaincu ? 
-          </mj-text>
-          <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="38px">
-            OUI, je continue à recevoir les actualités Lapeyre
-          </mj-button>
-          <mj-button href="#" font-family="Arial" background-color="#9B9B9B" color="white" height="38px">
-            NON, je ne veux plus recevoir d’emails de Lapeyre
+      <mj-section padding="25" padding-top="0" padding-bottom="40" background-color="#404040">
 
+        <mj-column background-color="#404040">
+          <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="55px">
+            Télécharger mon chèque Lapeyre Pro+
           </mj-button>
-        
         </mj-column>
       </mj-section>
-        
+
+      <mj-section padding="30" padding-top="0">
+        <mj-column>
+
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Merci pour votre confiance et à très vite dans notre magasin Lapeyre ou sur <a href="#" style="color:#EA0028; font-style:italic;">www.lapeyre.fr</a>
+
+
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
         <mj-column width="220">
           <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">

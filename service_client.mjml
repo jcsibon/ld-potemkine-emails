@@ -4,8 +4,8 @@
 
     <mj-attributes>
       <mj-text align="center" color="#555" font-family="Arial"/>
-      <mj-container background-color="#F8F8F8" />
-      <mj-section background-color="#F8F8F8" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
     </mj-attributes>
 
   </mj-head>
@@ -50,49 +50,37 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="600" src="img/reactivation/banner.png" padding="0" />
+          <mj-image width="600" src="img/service-client/banner.png" padding="0" />
 
         </mj-column>
 
       </mj-section>
 
-      <mj-section padding="30" padding-top="20" background-color="#F8F8F8">
+      <mj-section padding="30" padding-top="20">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
             Bonjour Jennifer,
           </mj-text>
-          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#40404" align="left">
-           Depuis quelques temps, vous ne lisez plus nos emails. Ils contiennent pourtant le meilleur de notre actualité, spécialement sélectionné pour vous : 
+          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
+           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum dignissim interdum. Suspendisse a enim diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
           </mj-text>
-        
+          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Aenean a auctor risus, sed commodo elit. Curabitur luctus nulla urna. Interdum et malesuada fames ac ante ipsum primis in faucibus
+          </mj-text>
+          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Bien cordialement, 
+
+          </mj-text>
+          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Votre Service Client Lapeyre.
+
+          </mj-text>
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0" padding-bottom="0">
-        <mj-column>
-
-          <mj-image width="600" src="img/reactivation/illu.jpg" padding="0" />
-
-        </mj-column>
-
-      </mj-section>
       
-			<mj-section padding="30" padding-top="20" background-color="#F8F8F8">
-        <mj-column>
-          <mj-text padding-top="50" padding-bottom="35px" font-size="20" color="#404040" align="center">
-            Alors, convaincu ? 
-          </mj-text>
-          <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="38px">
-            OUI, je continue à recevoir les actualités Lapeyre
-          </mj-button>
-          <mj-button href="#" font-family="Arial" background-color="#9B9B9B" color="white" height="38px">
-            NON, je ne veux plus recevoir d’emails de Lapeyre
 
-          </mj-button>
-        
-        </mj-column>
-      </mj-section>
-        
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
         <mj-column width="220">
           <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">

@@ -3,7 +3,7 @@
   <mj-head>
 
     <mj-attributes>
-      <mj-text align="center" color="#555" />
+      <mj-text align="center" color="#555" font-family="Arial"/>
       <mj-container background-color="#fff" />
       <mj-section background-color="#fff" />
     </mj-attributes>
