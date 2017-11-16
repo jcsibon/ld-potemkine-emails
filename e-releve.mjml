@@ -29,19 +29,19 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image width="95" src="../img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image width="243" src="../img/logo-pro.png" padding="0" />
+            <mj-image width="243" src="img/logo-pro.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image width="101" src="../img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
         </mj-group>
@@ -50,7 +50,7 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="600" src="../img/e_releve/banner.png" padding="0" />
+          <mj-image width="600" src="img/e-releve/banner.png" padding="0" />
 
         </mj-column>
 
@@ -67,7 +67,7 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="374" src="../img/relation_client/title.png" padding="0" />
+          <mj-image width="374" src="img/relation_client/title.png" padding="0" />
 
         </mj-column>
 
@@ -76,7 +76,7 @@
       <mj-section padding="55" padding-top="30" padding-bottom="20">
         <mj-group>
           <mj-column width="10%">
-            <mj-image width="29" src="../img/e_releve/cart.png" padding="0" align="left" />
+            <mj-image width="29" src="img/e-releve/cart.png" padding="0" align="left" />
           </mj-column>
 
           <mj-column width="70%">
@@ -103,7 +103,7 @@
       <mj-section padding="55" padding-top="20" padding-bottom="20">
         <mj-group>
           <mj-column width="10%">
-            <mj-image width="26" src="../img/e_releve/credit.png" padding="0" padding-top="0px" align="left" />
+            <mj-image width="26" src="img/e-releve/credit.png" padding="0" padding-top="0px" align="left" />
           </mj-column>
 
           <mj-column width="70%">
@@ -130,7 +130,7 @@
       <mj-section padding="55" padding-top="20" padding-bottom="20">
         <mj-group>
           <mj-column width="10%">
-            <mj-image width="26" src="../img/e_releve/money.png" padding="0" padding-top="0px" align="left" />
+            <mj-image width="26" src="img/e-releve/money.png" padding="0" padding-top="0px" align="left" />
           </mj-column>
 
           <mj-column width="70%">
@@ -157,7 +157,7 @@
       <mj-section padding="55" padding-top="20" padding-bottom="20">
         <mj-group>
           <mj-column width="10%">
-            <mj-image width="26" src="../img/e_releve/card.png" padding="0" padding-top="0px" align="left" />
+            <mj-image width="26" src="img/e-releve/card.png" padding="0" padding-top="0px" align="left" />
           </mj-column>
 
           <mj-column width="70%">
@@ -184,7 +184,7 @@
       <mj-section padding="55" padding-top="20" padding-bottom="20">
         <mj-group>
           <mj-column width="10%">
-            <mj-image width="26" src="../img/e_releve/ca.png" padding="0" padding-top="0px" align="left" />
+            <mj-image width="26" src="img/e-releve/ca.png" padding="0" padding-top="0px" align="left" />
           </mj-column>
 
           <mj-column width="70%">
@@ -205,7 +205,7 @@
       <mj-section padding="25" padding-top="20" padding-bottom="0" background-color="#404040">
 
         <mj-column background-color="#404040" width="50%">
-          <mj-image width="184" src="../img/e_releve/texte.png" padding="0" padding-top="50px" padding-bottom="50" />
+          <mj-image width="184" src="img/e-releve/texte.png" padding="0" padding-top="50px" padding-bottom="50" />
         </mj-column>
         <mj-column width="50%" background-color="#404040">
           <mj-text padding="40" font-weight="400" font-size="20" color="#fff" align="left">
@@ -214,7 +214,7 @@
 
           <mj-text padding="40" padding-left="0" font-weight="700" font-size="55" color="#EA0028" align="right" container-background-color="#fff">
             <div style="display:inline-block; padding:0px;">
-            	<img src="../img/e_releve/red-money.png" style="width:66px;"/>
+            	<img src="img/e-releve/red-money.png" style="width:66px;"/>
             </div>
             <div style="display:inline-block;">
             	<span>400€</span></br>
@@ -237,7 +237,7 @@
       <mj-section padding-top="40">
         <mj-column>
 
-          <mj-image width="600" src="../img/e_releve/fond-cagnotte.png" padding="0" />
+          <mj-image width="600" src="img/e-releve/fond-cagnotte.png" padding="0" />
           <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="35px" padding-top="60px">
             Voir toutes les offres
           </mj-button>
