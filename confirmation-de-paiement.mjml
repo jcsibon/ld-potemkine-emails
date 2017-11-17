@@ -16,7 +16,7 @@
         <mj-column>
 
           <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/confirmation-de-commande/banner.png" padding="0" />
+          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/confirmation-de-paiement/banner.png" padding="0" />
 
         </mj-column>
 
