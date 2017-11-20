@@ -59,7 +59,7 @@
       <mj-section padding="30" padding-top="20">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Bonjour Jennifer,
+                
           </mj-text>
         </mj-column>
       </mj-section>
@@ -140,7 +140,7 @@
             </mj-text>
           </mj-column>
 
-          <mj-column width="20%">
+          <mj-column width="10%">
             <mj-text padding="0" font-size="18" color="#EA0028" align="right">
               440 €
             </mj-text>
@@ -267,8 +267,6 @@
 
       <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
         <mj-column>
-          
-
           <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
             LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
             pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
