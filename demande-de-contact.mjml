@@ -65,7 +65,7 @@
             Vous nous avez contacté.
           </mj-text>
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Votre demande va être pris en compte par nos services, retrouvez les détails de votre demande ci-dessous.
+            Votre demande va être prise en compte par nos services, retrouvez les détails de votre demande ci-dessous.
           </mj-text>
         </mj-column>
       </mj-section>
