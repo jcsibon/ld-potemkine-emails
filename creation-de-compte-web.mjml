@@ -31,7 +31,7 @@
             Merci d’avoir créé un compte sur notre site !
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Pour faire de vos projets d’aménagement une réalité et découvrir tous nos produits et notre Savoir Bien Faire, rendez-vous sur Lapeyre.fr ou dans votre magasin le plus proche.
+            Pour faire de vos projets d’aménagement une réalité et découvrir tous nos produits et notre Savoir Bien Faire, rendez-vous sur <a href="https://www.lapeyre.fr" style="color:#ea0028">Lapeyre.fr</a> ou dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color: #EA0028">magasin</a> le plus proche.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -52,23 +52,6 @@
 
         <mj-column>
           <mj-image width="600" src="img/creation-de-compte-web/illu4.jpg" padding="10" />
-        </mj-column>
-      </mj-section>
-
-      <mj-section padding-top="0" background-color="#F8F8F8">
-        <mj-column>
-          <mj-image width="600" src="img/creation-de-compte-web/catalogue.jpg" padding="10" padding-bottom="0" />
-        </mj-column>
-        <mj-column>
-          <mj-text padding-top="60" padding-bottom="0" font-size="20" color="#404040" align="center" line-height="1.3">
-            Votre maison est unique ? Nos produits aussi.
-          </mj-text>
-          <mj-text padding-top="0" padding-bottom="12" font-size="20" color="#404040" align="center" line-height="1.3">
-            Découvrez les nouveaux catalogues Lapeyre 2017.
-          </mj-text>
-          <mj-button href="https://www.lapeyre.fr/img/contrib/freehtml/cataloguemedia/interieurs/2017/index-3.html" font-family="Helvetica" background-color="#AA192D" color="white">
-            Télécharger les catalogues
-          </mj-button>
         </mj-column>
       </mj-section>
 
@@ -121,17 +104,7 @@
 
       <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
         <mj-column>
-          <mj-text padding-top="20" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            (1) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, metus quis vestibulum suscipit, dui libero sollicitudin leo, non varius elit est ac leo. Vivamus eget risus metus. Aliquam pretium lacus quis lacinia sollicitudin.
-          </mj-text>
-
-          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            (2) Ut lobortis feugiat ligula, ac varius ante dignissim quis. Cras mattis nec ipsum sed gravida. Aenean euismod egestas ex, quis posuere enim.
-          </mj-text>
-
-          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            (3) Integer rutrum justo vitae aliquet facilisis. Suspendisse quam turpis, dignissim sit amet malesuada sed, viverra id turpis. In imperdiet mauris magna, sed finibus libero finibus quis. Maecenas facilisis enim tempor neque lobortis, eu efficitur enim
-            hendrerit.
+          
           </mj-text>
 
           <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
