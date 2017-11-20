@@ -59,7 +59,7 @@
       <mj-section padding="30" padding-top="20">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
-                
+             
           </mj-text>
         </mj-column>
       </mj-section>
@@ -127,7 +127,7 @@
         </mj-group>
       </mj-section>
 
-      <mj-section padding="55" padding-top="20" padding-botiom="20">
+      <mj-section padding="55" padding-top="20" padding-bottom="20">
         <mj-group>
           <mj-column width="10%">
             <mj-image width="26" src="img/e-releve/money.png" padding="0" padding-top="0px" align="left" />
@@ -140,7 +140,7 @@
             </mj-text>
           </mj-column>
 
-          <mj-column width="10%">
+          <mj-column width="20%">
             <mj-text padding="0" font-size="18" color="#EA0028" align="right">
               440 €
             </mj-text>
