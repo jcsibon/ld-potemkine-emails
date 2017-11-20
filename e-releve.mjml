@@ -235,13 +235,7 @@
       </mj-section>
 
       <mj-section padding-top="40">
-        <mj-column>
-
-          <mj-image width="600" src="img/e-releve/fond-cagnotte.png" padding="0" />
-          <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="35px" padding-top="60px">
-            Voir toutes les offres
-          </mj-button>
-        </mj-column>
+      
 
       </mj-section>
 
