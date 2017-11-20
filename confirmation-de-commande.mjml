@@ -31,7 +31,7 @@
       <mj-section padding="30" padding-top="20">
         <mj-column>
           <mj-text padding-bottom="0" font-size="20" color="#404040" align="left">
-            Bonjour Prénom NOM,
+            Bonjour Prénom,
           </mj-text>
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
             Merci pour votre confiance ! Vous trouverez ci-dessous le détail de votre commande ABCDEFGH.
