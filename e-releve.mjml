@@ -15,7 +15,7 @@
       <mj-section padding-top="10">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
-            Votre offre du mois de Mai.
+            Vos infos fidelité.
           </mj-text>
 
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
@@ -127,7 +127,7 @@
         </mj-group>
       </mj-section>
 
-      <mj-section padding="55" padding-top="20" padding-bottom="20">
+      <mj-section padding="55" padding-top="20" padding-botiom="20">
         <mj-group>
           <mj-column width="10%">
             <mj-image width="26" src="img/e-releve/money.png" padding="0" padding-top="0px" align="left" />
@@ -209,7 +209,7 @@
         </mj-column>
         <mj-column width="50%" background-color="#404040">
           <mj-text padding="40" font-weight="400" font-size="20" color="#fff" align="left">
-            Votre fidélité rapporte ! Utilisez votre chèque Lapeyre Pro+ et profitez de nombreux avantages.
+            Votre fidélité rapporte! Utilisez votre chèque Lapeyre Pro+ et profitez de nombreux avantages.
           </mj-text>
 
           <mj-text padding="40" padding-left="0" font-weight="700" font-size="55" color="#EA0028" align="right" container-background-color="#fff">
@@ -218,7 +218,7 @@
             </div>
             <div style="display:inline-block;">
             	<span>400€</span></br>
-          <span style="font-weight:400; font-size:14px; ">d’avantage fidélité</span>
+          <span style="font-weight:400; font-size:14px; ">dans votre cagnotte</span>
             </div>
           
          </mj-text> 
@@ -273,18 +273,7 @@
 
       <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
         <mj-column>
-          <mj-text padding-top="20" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            (1) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, metus quis vestibulum suscipit, dui libero sollicitudin leo, non varius elit est ac leo. Vivamus eget risus metus. Aliquam pretium lacus quis lacinia sollicitudin.
-          </mj-text>
-
-          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            (2) Ut lobortis feugiat ligula, ac varius ante dignissim quis. Cras mattis nec ipsum sed gravida. Aenean euismod egestas ex, quis posuere enim.
-          </mj-text>
-
-          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            (3) Integer rutrum justo vitae aliquet facilisis. Suspendisse quam turpis, dignissim sit amet malesuada sed, viverra id turpis. In imperdiet mauris magna, sed finibus libero finibus quis. Maecenas facilisis enim tempor neque lobortis, eu efficitur enim
-            hendrerit.
-          </mj-text>
+          
 
           <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
             LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
