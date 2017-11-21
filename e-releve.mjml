@@ -19,7 +19,7 @@
           </mj-text>
 
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
-            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=lien_miroir&utm_content=octobre" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
         </mj-column>
 
@@ -29,37 +29,38 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image width="243" src="img/logo-pro.png" padding="0" />
+            <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" width="243" src="img/logo-pro.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" width="101" src="img/espace.png" padding="0" padding-top="16px"
+              padding-right="20" align="right" />
 
           </mj-column>
         </mj-group>
       </mj-section>
 
-      <mj-section padding-top="0">
+      <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
 
-          <mj-image width="600" src="img/e-releve/banner.png" padding="0" />
+          <mj-image href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" width="600" src="img/e-releve/banner.png" padding="0" />
 
         </mj-column>
 
       </mj-section>
 
-      <mj-section padding="30" padding-top="20">
+      <mj-section padding="30" padding-top="20" padding-bottom="0">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
-             
+
           </mj-text>
         </mj-column>
       </mj-section>
@@ -67,218 +68,229 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="374" src="img/relation_client/title.png" padding="0" />
+          <mj-image width="374" src="img/e-releve/title.png" padding="0" />
 
         </mj-column>
 
       </mj-section>
 
-      <mj-section padding="55" padding-top="30" padding-bottom="20">
-        <mj-group>
-          <mj-column width="10%">
-            <mj-image width="29" src="img/e-releve/cart.png" padding="0" align="left" />
+      <mj-wrapper padding="0 30px">
+
+        <mj-section padding="55" padding-top="30" padding-bottom="20" border-left="1px dashed #000" border-right="1px dashed #000" border-top="1px dashed #000">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="29" src="img/e-releve/cart.png" padding="0" align="left" />
+            </mj-column>
+
+            <mj-column width="70%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                Montant des achats cumulés sur le mois
+
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="20%">
+              <mj-text padding="0" font-size="18" color="#EA0028" align="right">
+                <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="font-size:18px; color:#EA0028; text-decoration:none;">3500 €</a>
+              </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="55" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
           </mj-column>
+          </mj-group>
+        </mj-section>
 
-          <mj-column width="70%">
-            <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
-              Montant des achats cumulés sur le mois
+        <mj-section padding="55" padding-top="20" padding-bottom="20" border-left="1px dashed #000" border-right="1px dashed #000">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="26" src="img/e-releve/credit.png" padding="0" padding-top="0px" align="left" />
+            </mj-column>
 
-            </mj-text>
+            <mj-column width="70%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                Montant crédité ce mois-ci sur votre cagnotte
+
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="20%">
+              <mj-text padding="0" font-size="18" color="#EA0028" align="right">
+                <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="font-size:18px; color:#EA0028; text-decoration:none;">160 €</a>
+              </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="55" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
           </mj-column>
+          </mj-group>
+        </mj-section>
 
-          <mj-column width="20%">
-            <mj-text padding="0" font-size="18" color="#EA0028" align="right">
-              3500 €
-            </mj-text>
+        <mj-section padding="55" padding-top="20" padding-bottom="20" border-left="1px dashed #000" border-right="1px dashed #000">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="26" src="img/e-releve/money.png" padding="0" padding-top="0px" align="left" />
+            </mj-column>
+
+            <mj-column width="70%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                Solde de votre cagnotte
+
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="20%">
+              <mj-text padding="0" font-size="18" color="#EA0028" align="right">
+                <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="font-size:18px; color:#EA0028; text-decoration:none;">440 €</a>
+              </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="55" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
           </mj-column>
-      </mj-section>
+          </mj-group>
+        </mj-section>
 
-      <mj-section padding="55" padding-top="0" padding-bottom="0">
+        <mj-section padding="55" padding-top="20" padding-bottom="20" border-left="1px dashed #000" border-right="1px dashed #000">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="26" src="img/e-releve/card.png" padding="0" padding-top="0px" align="left" />
+            </mj-column>
+
+            <mj-column width="70%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                % avantage fidélité
+
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="20%">
+              <mj-text padding="0" font-size="18" color="#EA0028" align="right">
+                <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="font-size:18px; color:#EA0028; text-decoration:none;">5% Silver</a>
+              </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="55" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
+          </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="55" padding-top="20" padding-bottom="20" border-left="1px dashed #000" border-right="1px dashed #000" border-bottom="1px dashed #000">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="26" src="img/e-releve/ca.png" padding="0" padding-top="0px" align="left" />
+            </mj-column>
+
+            <mj-column width="70%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                CA HT à réaliser pour atteindre le palier de remise supérieur
+              </mj-text>
+            </mj-column>
+
+            <mj-column width="20%">
+              <mj-text padding="0" font-size="18" color="#EA0028" align="right">
+                <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="font-size:18px; color:#EA0028; text-decoration:none;">30 000 €</a>
+              </mj-text>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+        
+      <mj-section>
         <mj-column>
-          <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
+          <mj-spacer height="0px" />
         </mj-column>
-        </mj-group>
       </mj-section>
 
-      <mj-section padding="55" padding-top="20" padding-bottom="20">
-        <mj-group>
-          <mj-column width="10%">
-            <mj-image width="26" src="img/e-releve/credit.png" padding="0" padding-top="0px" align="left" />
+        <mj-section padding="25" padding-top="20" padding-bottom="0" background-color="#404040">
+
+          <mj-column background-color="#404040" width="50%">
+            <mj-image width="184" src="img/e-releve/texte.png" padding="0" padding-top="50px" padding-bottom="50" />
           </mj-column>
-
-          <mj-column width="70%">
-            <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
-              Montant crédité ce mois-ci sur votre cagnotte
-
+          <mj-column width="50%" background-color="#404040">
+            <mj-text padding="40" font-weight="400" font-size="20" color="#fff" align="left">
+              Votre fidélité rapporte! Utilisez votre chèque Lapeyre Pro+ et profitez de nombreux avantages.
             </mj-text>
-          </mj-column>
 
-          <mj-column width="20%">
-            <mj-text padding="0" font-size="18" color="#EA0028" align="right">
-              160 €
-            </mj-text>
-          </mj-column>
-      </mj-section>
-
-      <mj-section padding="55" padding-top="0" padding-bottom="0">
-        <mj-column>
-          <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
-        </mj-column>
-        </mj-group>
-      </mj-section>
-
-      <mj-section padding="55" padding-top="20" padding-bottom="20">
-        <mj-group>
-          <mj-column width="10%">
-            <mj-image width="26" src="img/e-releve/money.png" padding="0" padding-top="0px" align="left" />
-          </mj-column>
-
-          <mj-column width="70%">
-            <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
-              Solde de votre cagnotte
-
-            </mj-text>
-          </mj-column>
-
-          <mj-column width="20%">
-            <mj-text padding="0" font-size="18" color="#EA0028" align="right">
-              440 €
-            </mj-text>
-          </mj-column>
-      </mj-section>
-
-      <mj-section padding="55" padding-top="0" padding-bottom="0">
-        <mj-column>
-          <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
-        </mj-column>
-        </mj-group>
-      </mj-section>
-
-      <mj-section padding="55" padding-top="20" padding-bottom="20">
-        <mj-group>
-          <mj-column width="10%">
-            <mj-image width="26" src="img/e-releve/card.png" padding="0" padding-top="0px" align="left" />
-          </mj-column>
-
-          <mj-column width="70%">
-            <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
-              % avantage fidélité
-
-            </mj-text>
-          </mj-column>
-
-          <mj-column width="20%">
-            <mj-text padding="0" font-size="18" color="#EA0028" align="right">
-              5% Silver
-            </mj-text>
-          </mj-column>
-      </mj-section>
-
-      <mj-section padding="55" padding-top="0" padding-bottom="0">
-        <mj-column>
-          <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
-        </mj-column>
-        </mj-group>
-      </mj-section>
-
-      <mj-section padding="55" padding-top="20" padding-bottom="20">
-        <mj-group>
-          <mj-column width="10%">
-            <mj-image width="26" src="img/e-releve/ca.png" padding="0" padding-top="0px" align="left" />
-          </mj-column>
-
-          <mj-column width="70%">
-            <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
-              CA HT à réaliser pour atteindre le palier de remise supérieur
-            </mj-text>
-          </mj-column>
-
-          <mj-column width="20%">
-            <mj-text padding="0" font-size="18" color="#EA0028" align="right">
-              30 000 €
-            </mj-text>
-          </mj-column>
-      </mj-section>
-
-
-
-      <mj-section padding="25" padding-top="20" padding-bottom="0" background-color="#404040">
-
-        <mj-column background-color="#404040" width="50%">
-          <mj-image width="184" src="img/e-releve/texte.png" padding="0" padding-top="50px" padding-bottom="50" />
-        </mj-column>
-        <mj-column width="50%" background-color="#404040">
-          <mj-text padding="40" font-weight="400" font-size="20" color="#fff" align="left">
-            Votre fidélité rapporte! Utilisez votre chèque Lapeyre Pro+ et profitez de nombreux avantages.
-          </mj-text>
-
-          <mj-text padding="40" padding-left="0" font-weight="700" font-size="55" color="#EA0028" align="right" container-background-color="#fff">
-            <div style="display:inline-block; padding:0px;">
-            	<img src="img/e-releve/red-money.png" style="width:66px;"/>
-            </div>
-            <div style="display:inline-block;">
+            <mj-text padding="40" padding-bottom="30px" font-weight="700" font-size="55" color="#EA0028" align="center" container-background-color="#fff">
+              <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="display:inline-block; color:#EA0028; text-decoration:none;">
             	<span>400€</span></br>
           <span style="font-weight:400; font-size:14px; ">dans votre cagnotte</span>
-            </div>
-          
-         </mj-text> 
-        </mj-column>
-      </mj-section>
-      
-      <mj-section padding="25" padding-top="0" padding-bottom="40" background-color="#404040">
+            </a>
 
-        <mj-column background-color="#404040">
-          <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="55px">
-            Télécharger mon chèque Lapeyre Pro+
-          </mj-button>
-        </mj-column>
-      </mj-section>
-
-      <mj-section padding-top="40">
-      
-
-      </mj-section>
-
-      <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
-        <mj-column width="220">
-          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
-            Suivez Lapeyre sur
-          </mj-text>
-        </mj-column>
-
-        <mj-group>
-          <mj-column width="20%">
-            <mj-image href="https://www.facebook.com/Lapeyre/" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+            </mj-text>
           </mj-column>
-          <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
-          </mj-column>
-          <mj-column width="20%">
-            <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
-          </mj-column>
-          <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
-          </mj-column>
-          <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
-          </mj-column>
-        </mj-group>
-      </mj-section>
+        </mj-section>
 
-      <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
-        <mj-column>
-          <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
-            LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
-            pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
-            vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations.
-            Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
-          </mj-text>
+        <mj-section padding="25" padding-top="0" padding-bottom="40" background-color="#404040">
 
-          <mj-text padding-top="0" padding-bottom="30" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
-            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="#" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
-          </mj-text>
-        </mj-column>
-      </mj-section>
+          <mj-column background-color="#404040">
+            <mj-button href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="55px">
+              Télécharger mon chèque Lapeyre Pro+
+            </mj-button>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="40">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" width="600" src="img/e_releve/fond-cagnotte.png" padding="0" padding-bottom="0" />
+
+            <mj-button href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="55px"
+              padding-bottom="0">
+              Voir toutes les offres
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+        <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+          <mj-column width="220">
+            <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+              Suivez Lapeyre sur
+            </mj-text>
+          </mj-column>
+
+          <mj-group>
+            <mj-column width="20%">
+              <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=fb&utm_content=octobre" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+            </mj-column>
+            <mj-column width="20%">
+              <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=instagram&utm_content=octobre" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
+            </mj-column>
+            <mj-column width="20%">
+              <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=pinterest&utm_content=octobre" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
+            </mj-column>
+            <mj-column width="20%">
+              <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=yt&utm_content=octobre" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+            </mj-column>
+            <mj-column width="20%">
+              <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=tw&utm_content=octobre" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+              LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
+              pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant.
+              Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement
+              de vos informations. Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+            </mj-text>
+
+            <mj-text padding-top="0" padding-bottom="30" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+              Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=desabo&utm_content=octobre" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+            </mj-text>
+          </mj-column>
+        </mj-section>
     </mj-container>
   </mj-body>
 
