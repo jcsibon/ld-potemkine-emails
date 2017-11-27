@@ -31,7 +31,7 @@
             Merci d’avoir créé un compte sur notre site !
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Pour faire de vos projets d’aménagement une réalité et découvrir tous nos produits et notre Savoir Bien Faire, rendez-vous sur <a href="https://www.lapeyre.fr" style="color:#ea0028">Lapeyre.fr</a> ou dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color: #EA0028">magasin</a> le plus proche.
+            Pour faire de vos projets d’aménagement une réalité et découvrir tous nos produits et notre Savoir Bien Faire, rendez-vous sur <a href="https://www.lapeyre.fr" style="color:#ea0028">Lapeyre.fr</a> ou dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color: #EA0028">votre magasin</a> le plus proche.
           </mj-text>
         </mj-column>
       </mj-section>
@@ -64,9 +64,9 @@
    			
         	<mj-column width="25%" background-color="#404040">%
             <mj-text padding-top="20" padding-bottom="0" padding-left="15" padding-right="15" font-size="18" color="#A78F80" align="left" line-height="1.3" text-transform="uppercase">
-              Découvrez toutes nos </mj-text>
+              Découvrez tous nos </mj-text>
             <mj-text padding-top="0" padding-bottom="0" font-size="18" padding-left="15" padding-right="15" color="#ffffff" align="left" line-height="1.3" text-transform="uppercase">
-              EXPERTISES</mj-text>
+              SERVICES</mj-text>
             <mj-text padding-top="10" padding-bottom="18" padding-left="15" padding-right="15" font-size="16" color="#ffffff" align="left" line-height="1.3" font-weight="300">
               <a href="https://www.lapeyre.fr/c/services/" style="color:#fff; text-decoration:none;"> > En savoir plus</a></mj-text>
         	</mj-column>
