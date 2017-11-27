@@ -46,7 +46,7 @@
       <mj-section padding-top="30">
         <mj-column>
 
-          <mj-image width="498" src="img/relance-de-panier-abandonne/titre.png" padding="0" />
+          <mj-image width="498" src="img/relance-de-panier-abandonne/titre.png" padding="10" />
 
         </mj-column>
 
