@@ -1,0 +1,429 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
+          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/confirmation-de-commande/banner.png" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="30" padding-top="20">
+        <mj-column>
+          <mj-text padding-bottom="0" font-size="20" color="#404040" align="left">
+            Bonjour Prénom,
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Merci pour votre confiance ! Vous trouverez ci-dessous le détail de votre commande ABCDEFGH.
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Le magasin Lapeyre Porte de la Villette prépare votre commande et prendra contact avec vous pour convenir des détails liés à la livraison, prévue à partir du lundi 24 mars 2017.
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Vous pouvez dès à présent suivre l'avancement de votre commande dans la rubrique « Suivi de commande » du site <a href="https://www.lapeyre.fr/" style="color:#ea0028;">lapeyre.fr</a> ou contacter directement votre magasin.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="30">
+        <mj-column>
+          <mj-image width="498" src="img/confirmation-de-commande/titre.png" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="5%">
+          </mj-column>
+        <mj-column width="90%">
+          <mj-table>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Fenêtre 2 vantaux CLASSIC PVC Blanc H.117 x l.107 pour Tableau H.115 x l.100<br>Ref: 2186320 - 1 x 99,00 € 
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                99,00 € 
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Mitigeur lavabo petit modèle EUROMART 2 chrome<br>Ref: 1242163 - 2 x 79,00 €
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                79,00 €
+              </td>
+            </tr>
+            <tr style="background-color:#f8f8f8;">
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Carrelage CLUB blanc 33.3x66.4 ép.9 mm aspect naturel<br>1239721 - 1 x 26,16 €
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                26,16 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Parquet contrecollé CANYON chêne naturel brossé verni mat ép.14mm botte 1.37m2<br>Ref: 2513110 - 1 x 72,47 €
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                72,47 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Remise Anniversaire
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                - 100,00 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Coupon « NOELBIENFAIT »
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                - 50,00 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8b2be;font-family:Arial;font-weight:bold;text-transform:uppercase">
+                Sous-total TTC
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8b2be;font-family:Arial;font-weight:bold;text-transform:uppercase;text-align:right;">
+                326,03 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                Frais de livraison
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                15,00 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#ea0028;color:#FFF;font-family:Arial;font-weight:bold;text-transform:uppercase">
+                Total TTC
+              </td>
+              <td style="width:20%;padding:3%;background-color:#ea0028;color:#FFF;font-family:Arial;font-weight:bold;text-transform:uppercase;text-align:right;">
+                341,03 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                dont TVA
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                0,00 €
+              </td>
+            </tr>
+            <tr>
+              <td style="width:80%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial">
+                dont Eco-Participation
+              </td>
+              <td style="width:20%;padding:3%;background-color:#f8f8f8;border-bottom:1px solid #fff;border-right:1px solid #fff;color:#404040;font-family:Arial;text-align:right;">
+                0,00 €
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+          <mj-column width="5%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0" padding-top="10px">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+          <mj-column width="82%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+            <mj-text padding="0" padding-top="10" padding-bottom="10" padding-left="15px" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center">
+              Magasin en charge du traitement de votre commande
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+          <mj-column width="82%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+            <mj-text padding="0" padding-top="15" padding-bottom="15" font-size="16" color="#404040" font-weight="600" align="center">
+              Lapeyre Porte de la Villette
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0" padding-top="10px">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+            <mj-text padding="0" padding-top="10" padding-bottom="10" padding-left="15px" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center">
+              Adresse de livraison
+            </mj-text>
+          </mj-column>
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+            <mj-text padding="0" padding-top="10" padding-bottom="10" padding-left="15px" font-size="14" text-transform="uppercase" color="#404040" font-weight="400" align="center">
+              Adresse de facturation
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="9%">
+          </mj-column>
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+            <mj-text padding="0" padding-top="15" padding-bottom="0" padding-left="15px" font-size="16" color="#404040" font-weight="600" align="center">
+              M. Prénom NOM
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              06 12 34 56 78
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="8" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              prénomnom@gmail.com
+            </mj-text>
+            <mj-text padding="0" padding-top="7" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              12 rue Truc
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              Étage : RDC
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="20" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              75009 PARIS
+            </mj-text>
+          </mj-column>
+          <mj-column width="41%" background-color="#f8f8f8" border-bottom="1px solid #fff" border-right="1px solid #fff">
+            <mj-text padding="0" padding-top="15" padding-bottom="0" padding-left="15px" font-size="16" color="#404040" font-weight="600" align="center">
+              M. Prénom NOM
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              06 12 34 56 78
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="8" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              prénomnom@gmail.com
+            </mj-text>
+            <mj-text padding="0" padding-top="7" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              12 rue Truc
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="0" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              Étage : RDC
+            </mj-text>
+            <mj-text padding="0" padding-top="0" padding-bottom="20" padding-left="15px" font-size="12" line-height="16px" color="#404040" font-weight="400" align="center">
+              75009 PARIS
+            </mj-text>
+          </mj-column>
+          <mj-column width="9%">
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text font-size="12" line-height="14px" color="#888" align="center" font-weight="40">
+            Vous avez une question ? Vous souhaitez exercer votre droit de rétractation ? <br> Contactez notre <a href="https://www.lapeyre.fr/contact?formName=contactSuiviCommande" style="color:#ea0028;">service client</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" border-bottom="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+            <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#888" align="center" font-weight="40">CONDITIONS GÉNÉRALES DE VENTE LAPEYRE.FR</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 1 - CHAMP D'APPLICATION DES CONDITIONS GÉNÉRALES DE VENTE - COMMANDE</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">1.1 Champ d’application des conditions générales de vente</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les présentes conditions générales de vente (« CGV »),  s’appliquent à toute commande de Produits standards faite par un client Lapeyre (le « Client ») sur le site internet lapeyre.fr  (le « Site »).</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Toute commande passée sur le Site (la/les « Commande(s) ») est soumise aux CGV dans leur version en vigueur au jour de la Commande.  </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">1.2 Commande</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Toute Commande sur le Site sera rattachée automatiquement à un magasin Lapeyre qui assure le suivi de la Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client reconnaît préalablement à la Commande avoir eu connaissance des informations visées à l’article  text-decoration="underline"L111-1 du Code de la consommation, et notamment les caractéristiques essentielles des Produits et leur prix.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client passe sa Commande en renseignant en ligne sous sa responsabilité les informations exactes et complètes nécessaires, relatives notamment à l’adresse de livraison des Produits et/ou à l’adresse de facturation.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre ne peut être tenue responsable des éventuelles erreurs de saisies et des conséquences qui peuvent en découler.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre se réserve le droit de faire supporter au Client les frais liés à la réexpédition du Produit résultant d’une information erronée donnée par le Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">La validation de la Commande par le Client formalise de manière ferme et définitive la conclusion d’un contrat de vente avec Lapeyre, sous réserve de son éventuel droit de rétractation indiqué à l’article  text-decoration="underline"5 des CGV. Le Client reçoit ensuite par courriel une confirmation de paiement comportant un récapitulatif de Commande avec le numéro de Commande et un délai de livraison ou de mise à disposition en magasin.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Recommandations avant validation de la Commande :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Avant toute Commande, il est conseillé au Client  de se rendre en magasin afin de s’assurer que le Produit correspond bien à ses attentes, concernant par exemple le coloris ou la texture choisi(e) et les modalités de mise en œuvre ou d’installation.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Sauf exception, les Produits Lapeyre sont destinés aux locaux d’habitation à usage individuel.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Pour un usage spécifique et notamment pour une utilisation dans un ERP (Etablissement Recevant du Public), le Client doit se renseigner au préalable sur les exigences spécifiques éventuellement requises par la réglementation.  </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Il appartient au Client de vérifier la conformité du Produit en cas d’exportation ou d’utilisation du Produit hors de France métropolitaine, les produits Lapeyre étant destinés à une utilisation dans des zones climatiques tempérées.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 2 - PRODUITS</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Site présente les caractéristiques essentielles des produits, (« le ou les Produit(s) »).</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">La liste des Produits et leurs caractéristiques présentées sur le Site sont susceptibles d’évoluer à tout moment pour mieux répondre aux besoins du Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Il appartient au Client de prendre connaissance de l’étiquetage du Produit, des fiches techniques, des préconisations d’installation et de toute mention présente sur le Produit ou son emballage avant l’utilisation du Produit.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Pour les fournitures de carrelage, pierre reconstituée et pierre naturelle, bois et produits intégrant du bois, les dimensions, nuances de couleur, aspect, structure, poids peuvent être soumis à des variations inhérentes à leur fabrication ou à leur nature, entrant dans les tolérances d’usage. Les réclamations concernant la non-conformité apparente de ces Produits ne sont prises en considération qu’avant leur pose.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 3 - PRIX</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les prix de vente des Produits sont ceux figurant sur le Site au moment de la Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Tout changement de prix postérieur à la Commande est sans effet sur celle-ci.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les prix des Produits accessibles depuis la page d’accueil du Site s’entendent toutes taxes comprises (T.T.C) au taux de TVA en vigueur et comprennent, lorsqu’elle est obligatoire, l’éco-participation(s) applicable(s) au moment de la Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Ces prix ne comportent pas  les frais de livraison.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Ces frais sont communiqués au Client avant la validation par le Client de sa Commande et figurent sur le récapitulatif de Commande reçu par mail et sur la facture.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">En cas de différence tarifaire entre le Site et le catalogue, le prix applicable est celui indiqué sur le Site.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">En cas d’erreur typographique sur le prix d’un Produit sur le Site ou de prix manifestement erroné ou dérisoire, Lapeyre signalera aux Clients concernés ladite erreur et pourra annuler la Commande du ou des Produits.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 4 - PAIEMENT</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le versement de la totalité du montant de l’achat est exigé au moment de la Commande.  La facture correspondante sera communiquée au Client lors de la livraison ou en magasin lors du retrait de la Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le paiement des Produits s’effectue comptant sans escompte.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les Commandes sont payables par carte bancaire.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">La gestion des paiements par carte bancaire est assurée par un prestataire de paiement à distance BNP Mercanet. Ce dernier dispose d’une certification à la norme de sécurité des transactions « PCI DSS » qui régit la profession des prestataires de paiement à distance. Lors du paiement par carte bancaire, les coordonnées bancaires du Client sont alors cryptées grâce au protocole SSL (protocole de sécurisation des échanges sur Internet).</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 5 - DROIT DE RETRACTATION</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">5.1 Délai de rétractation </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Dans le cas d’une Commande effectuée sur le Site, le Client dispose d’un délai de rétractation de quatorze  jours  à compter de la  réception des Produits ou du retrait des Produits en magasin par le Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Au-delà de ce délai, aucun autre motif d’annulation de la Commande ne pourra être valablement invoqué par le Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Dans l’hypothèse d’une livraison échelonnée, le délai court à compter de la réception du dernier Produit ou lot reçu.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le droit de rétractation ne peut être exercé dans le cas où les Produits, après avoir été livrés et de par leur nature, sont mélangés et/ou fixés de manière indissociable avec d'autres produits, meubles ou immeubles.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">5.2 Modalités d’exercice du droit de rétractation </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client peut exercer son droit de rétractation via le formulaire d’annulation de Commande figurant sur le Site ou en se rapprochant du Service Clients Lapeyre. </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">5.3 Modalités de retour des Produits </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Dans un délai maximum de quatorze jours à compter de la communication à Lapeyre de sa décision de se rétracter, le Client devra contacter le Service Clients Lapeyre  afin de convenir des modalités de réexpédition des Produits.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les Produits devront être retournés  dans leur parfait état d’origine, accompagnés de tous les accessoires éventuels, notices d’emploi et documentations.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les frais de retour sont à la charge du Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">5.4 Remboursement </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Sous réserve du respect des conditions ci-dessus, Lapeyre s’engage à rembourser au Client le prix des Produits retournés ainsi que les frais de la livraison initiale, dans un délai de quatorze (14) jours à compter de la date de récupération des Produits par Lapeyre ou à compter de la transmission par le Client d’une preuve de l’envoi des biens retournés, la date retenue étant celle du premier de ces faits.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre procédera au remboursement via son prestataire de paiement à distance BNP Mercanet, sauf si Lapeyre et le Client conviennent d’un moyen différent.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 6 - LIVRAISON - RETRAIT DES PRODUITS EN MAGASIN - DRIVE</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Pour toute Commande, le Client peut choisir soit la livraison à l’adresse qu’il aura indiquée, soit le retrait des Produits en magasin.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">6.1 Livraison</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Frais de livraison</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Ces frais sont ceux mentionnés sur le Site et précisés au moment de la Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Ils sont réglés par le Client au moment de la Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Délai de livraison </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le délai de livraison est mentionné sur le récapitulatif de Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre informera le Client par tout moyen de communication de tout retard éventuel de livraison. En cas de dépassement par Lapeyre du délai de livraison annoncé, le Client pourra résoudre le contrat dans les conditions de l’article  text-decoration="underline"L.216-2 du Code de la Consommation.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Modalités de livraison </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">L’adresse de livraison, qui devra être clairement précisée par le Client lors de la Commande, se situe en France métropolitaine (hors Dom-Tom et Corse) uniquement et devra être accessible, notamment par une voie carrossable, sans danger ni risque pour le transporteur. A ce titre, le Client devra signaler toute difficulté d’accès via le formulaire de contact, accessible sur le mail de confirmation de commande.   </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre se réserve le droit de refuser la livraison des Produits dans certaines zones difficiles d’accès pour le transporteur (montagnes, îles…).</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre décline toute responsabilité si un dommage quelconque survenait sur le lieu de livraison en raison d’un accès difficile ou d’un terrain non approprié.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lors de la livraison des Produits, le Client doit signer le bon de livraison présenté par le transporteur.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client doit vérifier l'état des Produits. En cas d'anomalie apparente (emballage abîmé, Produits manquants, abîmés ou cassés) constatée lors de la livraison, le Client devra :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">- décrire de manière précise sur le bon de livraison l'état des Produits (exemples : « manque 1 porte sur 2 commandées », « miroir de salle de bains brisé », « erreur de coloris », « erreur de dimension »…).</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">- faire co-signer les éventuelles réserves par le transporteur.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">- dans les 3 jours suivant la livraison, informer le service clients Lapeyre de cette non-conformité par mail à l’adresse suivante service.client@lapeyre.fr, en précisant son nom, prénom et adresse ainsi que le numéro de la Commande.  </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre communiquera au Client son accord ou son refus sur la demande de retour des Produits dans les meilleurs délais. Les frais de retour sont à la charge de Lapeyre dans cette hypothèse.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">En l’absence de réserves précises, la livraison sera considérée conforme à la Commande, sans que cela ne fasse obstacle à l’application ultérieure le cas échéant des garanties conventionnelles ou légales.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Absence du Client au moment de la livraison </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">En cas d’absence du Client au moment de la livraison, un avis de passage sera déposé dans sa boîte aux lettres. Le Client sera alors invité à se rapprocher du transporteur ou du magasin Lapeyre de rattachement. Les frais de cette seconde livraison seront à la charge du Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">6.2 Retrait des Produits en magasin </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Fixation de la date de retrait </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lors de la Commande, la date de mise à disposition des Produits en magasin est fixée automatiquement.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client s’engage à retirer les Produits à partir de la date indiquée sur le récapitulatif de Commande.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre informera le Client par tout moyen de communication de tout report de la date de mise à disposition. En cas de dépassement par Lapeyre de la date de mise à disposition annoncée, le Client pourra résoudre le contrat dans les conditions de l’article  text-decoration="underline"L.216-2 du Code de la Consommation.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Modalités de retrait </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lors du retrait des Produits en magasin, le Client doit vérifier l'état apparent des Produits et signer le « bon de service » correspondant.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Non-respect par le Client de la date de retrait</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Dans l’hypothèse où le Client ne vient pas retirer les Produits commandés après la date de mise à disposition fixée, Lapeyre adressera au Client par LRAR une mise en demeure de venir les récupérer.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Si la mise en demeure reste sans effet 15 jours calendaires à compter de sa première présentation au Client (Point de départ), Lapeyre se réserve le droit de réclamer au Client des pénalités d’un montant de 1% du montant de la Commande par jour de retard à partir du Point de départ.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">A compter de 30 jours après le Point de départ, Lapeyre pourra disposer librement de tout Produit non retiré et conserver le montant versé à la Commande, sans préjudice des pénalités applicables.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">6.3 Drive </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre propose un service « Drive » qui permet au Client de choisir le créneau horaire de retrait de sa marchandise. Les Produits seront récupérés par le Client à l’emplacement Lapeyre Drive du Magasin concerné.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Afin de connaître les magasins Lapeyre proposant ce service et les conditions et modalités de ce service, le Client est invité à se reporter à la rubrique dédiée du Site.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 7 - RETOUR DES PRODUITS</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Au-delà du délai de rétractation tel que visé à l’article  text-decoration="underline"5 ci-dessus, le Client peut encore changer d’avis. Il dispose d’un délai de 30 jours à compter de la date de facture pour rapporter un Produit standard, non installé ni posé par Lapeyre,  dans son état et emballage d’origine, accompagné des accessoires et notices d’utilisation et d’entretien. Les produits personnalisés, les produits à option et les produits soldés ne peuvent pas faire l’objet de retour.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client effectue le retour à ses frais, auprès du Magasin mentionné sur la facture. Après vérification de l’état du Produit, Lapeyre rembourse le Client. Dans le cas des revêtements de sol (carrelage, parquet etc…), Lapeyre établira un avoir du montant du Produit, valable en magasin un an suivant son émission.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 8 - TRANSFERT DES RISQUES</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client prend possession des Produits au moment de leur retrait en Magasin ou dès leur livraison.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les risques de perte, vol ou détérioration des Produits ainsi que les dommages occasionnés par les Produits sont transférés au Client à compter de la livraison ou du retrait des Produits en Magasin.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 9 - GARANTIES</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les Produits sont garantis, sur présentation  de la facture, dans le cadre, d’une part, des dispositions légales et, d’autre part, de la garantie commerciale Lapeyre. </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Il est précisé que la réalisation de services après-vente au titre des garanties commerciales n’est effectuée qu’en France métropolitaine, hors Dom-Tom et Corse.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">9.1 Garantie légale </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre est tenue des défauts de conformité du bien à la Commande dans les conditions des articles L.217-4 et suivants du Code de la Consommation et des défauts cachés de la chose vendue dans les conditions prévues aux articles 1641 et suivants du Code Civil. </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Garantie  de conformité :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">- bénéficie d’un délai de deux ans à compter de la délivrance du bien pour agir;</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">- peut choisir entre la réparation ou le remplacement du bien, sous réserve des conditions de coût prévues par l’article  text-decoration="underline"L. 217-9 du Code de la Consommation ;</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">- est dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre mois suivant la délivrance du bien.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Garantie des vices cachés :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Client peut invoquer un défaut caché, inhérent au Produit et le rendant impropre à son utilisation.  Si  les conditions des articles 1641 et suivants du Code Civil sont respectées, il peut     demander soit la résolution de la vente, soit une réduction du prix de vente conformément à l'article  text-decoration="underline"1644 du Code Civil.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les garanties légales s’appliquent indépendamment de la garantie commerciale.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Extraits du Code de la Consommation :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. L.217-4. Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Il répond également des défauts de conformité résultant de l’emballage, des instructions de montage ou de l’installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. L.217.5. –  Le bien est conforme au contrat :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">1° S’il est propre à l’usage habituellement attendu d’un bien semblable et, le cas échéant :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l’acheteur sous forme d’échantillon ou de modèle ;</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">s’il présente les qualités qu’un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l’étiquetage ;</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">2° Ou s’il présente les caractéristiques définies d’un commun accord par les parties ou est propre à tout usage spécial recherché par l’acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. L.217-12. – L’action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. L.217-16.  Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Extraits du Code civil :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. 1641. – Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l’usage auquel on la destine, ou qui diminuent tellement cet usage, que l’acheteur ne l’aurait pas acquise, ou n’en aurait donné qu’un moindre prix, s’il les avait connus.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. 1648. – L’action résultant des vices rédhibitoires doit être intentée par l’acquéreur dans un délai de deux ans à compter de la découverte du vice.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Art. 1792-2. - La présomption de responsabilité établie par l'article  text-decoration="underline"1792 s'étend également aux dommages qui affectent la solidité des éléments d'équipement d'un ouvrage, mais seulement lorsque ceux-ci font indissociablement corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos ou de couvert.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Un élément d'équipement est considéré comme formant indissociablement corps avec l'un des ouvrages de viabilité, de fondation, d'ossature, de clos ou de couvert lorsque sa dépose, son démontage ou son remplacement ne peut s'effectuer sans détérioration ou enlèvement de matière de cet ouvrage.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">9.2 Garantie commerciale </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Lapeyre offre une garantie commerciale à ses Clients dont les conditions de mise en œuvre figurent dans le Livret de Garantie. Celui-ci est accessible sur la page d’accueil du Site. </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">9.3 Mise en œuvre des garanties légales et commerciales (SAV)</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">En cas de problème dans l’utilisation ou l’installation d’un Produit, le Client a la possibilité de mettre en œuvre les garanties des articles 9.1 et 9.2 en contactant le centre d’appel SAV LAPEYRE, joignable du lundi au samedi. Ses coordonnées sont disponibles sur le Site et sur la facture du Client.   </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le chargé de clientèle SAV réalise un premier diagnostic téléphonique de la situation et propose une solution adaptée.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Si les conditions de la garantie légale ou commerciale sont réunies, le chargé de clientèle SAV présente au Client les modalités de mise en œuvre de la garantie applicable.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Si aucune garantie n’est applicable, un devis de réparation pourra être établi le cas échéant. Le Client devra alors communiquer son accord ou son refus du devis.  Les frais de retour du Produit réparé seront à la charge du Client.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 10 - PIECES DETACHEES</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">La durée de disponibilité des pièces détachées des Produits concernés est identique à la durée de la garantie commerciale proposée par Lapeyre et présentée dans le Livret de garantie par catégorie de Produits. http://www.lapeyre.fr/c/h/livret-de-garantie</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 11 - DROIT APPLICABLE - MEDIATION - TRIBUNAUX COMPETENTS</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les présentes CGV  sont soumises au Droit français.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">En cas de litige, le Client devra s’adresser en priorité au service clients Lapeyre par mail à l’adresse suivante service.client@lapeyre.fr ou par courrier recommandé avec AR à l’adresse suivante : Lapeyre, Service Client, BP 149 - 93300 Aubervilliers.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Conformément à  text-decoration="underline"l’article L. 211-3 du Code de la Consommation, pour les réclamations déjà déposées par écrit auprès du service clients Lapeyre depuis moins d’un an et n’ayant pas abouti à un accord, le Client particulier pourra recourir gratuitement à une procédure de médiation. Lapeyre propose ainsi au Client de saisir la plateforme de médiation qu’elle a choisie, MEDICYS, via son site internet www.medicys.fr ou en écrivant à l’adresse suivante MEDYCIS – Centre de Médiation et Règlement Amiable des Huissiers de Justice - 73 boulevard de Clichy 75009 PARIS.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">La solution proposée par l’intermédiaire de la plateforme de médiation ne s’impose pas aux parties, qui restent libres à tout moment de mettre fin au processus de médiation.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">A défaut d’accord avec le Service Clients Lapeyre ou en cas d’échec de la médiation, si le Client est un particulier, la juridiction compétente sera celle désignée en application des règles du Droit commun.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Si le Client est un professionnel, la juridiction compétente est le Tribunal de Commerce de Paris.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40" text-decoration="underline">ARTICLE 12 - DONNEES PERSONNELLES</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Les données personnelles communiquées à Lapeyre par le Client ont pour objectif la bonne exécution des Commandes, la gestion des relations commerciales et des factures, l’amélioration de la qualité des Produits proposés, la meilleure réponse aux attentes du Client, d’établir des statistiques commerciales et/ou de lui permettre de bénéficier des offres LAPEYRE, de ses filiales et/ou de ses partenaires commerciaux. Le Client consent à l’utilisation de ses données par Lapeyre et/ou par des tiers, filiales ou partenaires commerciaux de Lapeyre. Conformément aux dispositions de la loi dite « Informatique et Libertés » du 6 janvier 1978, le Client dispose d’un droit d’accès, de rectification, de suppression et d’opposition sur les données personnelles le concernant qu’il peut exercer en envoyant un e-mail à : service.client@lapeyre.fr ou en écrivant à : Lapeyre, Service Client, 2 rue André Karman - BP 149 - 93300 Aubervilliers. </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le consommateur qui ne souhaite pas faire l'objet de prospection commerciale par voie téléphonique peut gratuitement s'inscrire sur la liste d'opposition au démarchage téléphonique, Bloctel.</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Le Service Clients Lapeyre peut être contacté :</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Par téléphone au numéro vert 0 801 01 05 38 (N° vert)</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">via le Site dans la rubrique « Nous contacter »</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Par courrier à l’adresse suivante : LAPEYRE – Service Client  2, rue André Karman BP 149  93300 AUBERVILLIERS</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Conditions générales de vente lapeyre.fr en vigueur au 6 mars 2017</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">LAPEYRE</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">S.A.S au capital de 20.000.000 € - 542 020 862 RCS Nanterre </mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">n° TVA : FR 91 542 020 862</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Siège social : Les Miroirs – 18 avenue d’Alsace 92400 COURBEVOIE</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Siège administratif : 2 rue André Karman – B.P. 149 – 93300 AUBERVILLIERS</mj-text>
+            <mj-text padding-top="0" padding-bottom="10" font-size="10" line-height="12px" color="#888" align="justify" font-weight="40">Tél. 01 48 11 74 00 – Fax 01 48 11 74 01</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-bottom="20" padding-top="20">
+      </mj-section>
+      <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://www.facebook.com/Lapeyre/" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
+            pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
+            vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations.
+            Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+</mjml>
