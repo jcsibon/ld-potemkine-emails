@@ -28,6 +28,9 @@
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
             Vous pouvez dès à présent suivre l'avancement de votre commande dans la rubrique « Suivi de commande » du site <a href="https://www.lapeyre.fr/" style="color:#ea0028;">lapeyre.fr</a> ou contacter directement votre magasin.
           </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            L'équipe Lapeyre
+          </mj-text>
         </mj-column>
       </mj-section>
       <mj-section padding-top="30">
