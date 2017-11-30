@@ -33,6 +33,9 @@
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Pour faire de vos projets d’aménagement une réalité et découvrir tous nos produits et notre Savoir Bien Faire, rendez-vous sur <a href="https://www.lapeyre.fr" style="color:#ea0028">Lapeyre.fr</a> ou dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color: #EA0028">votre magasin</a> le plus proche.
           </mj-text>
+          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="right">
+            L'équipe Lapeyre.
+          </mj-text>
         </mj-column>
       </mj-section>
 
