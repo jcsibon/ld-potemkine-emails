@@ -15,7 +15,7 @@
       <mj-section padding-top="10">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
-            Votre offre du mois de Mai.
+            Votre demande.
           </mj-text>
 
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
@@ -121,8 +121,8 @@
           <mj-spacer height="20px" />
         </mj-column>
       </mj-section>
-      
-                            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="right">
+</mj-text>
+          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe Lapeyre.
           </mj-text>
               </mj-column>
