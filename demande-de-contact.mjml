@@ -121,11 +121,14 @@
           <mj-spacer height="20px" />
         </mj-column>
       </mj-section>
+
 </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe Lapeyre.
           </mj-text>
-
+        </mj-column>
+      </mj-section>
+              
 
         </mj-section>
               <mj-section padding-top="15"></mj-section>
