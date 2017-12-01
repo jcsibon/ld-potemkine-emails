@@ -115,14 +115,7 @@
           </mj-column>
         </mj-section>
       </mj-wrapper>
-          
-          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="right">
-            L'équipe Lapeyre.
-          </mj-text>
-        </mj-column>
-      </mj-section>
               
-
         </mj-section>
               <mj-section padding-top="15"></mj-section>
       </mj-wrapper>
