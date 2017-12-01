@@ -126,11 +126,9 @@
             L'équipe Lapeyre.
           </mj-text>
               </mj-column>
+               <mj-section padding-top="15">
         </mj-section>
       </mj-wrapper>
-      
-            <mj-section padding-top="0">
-        <mj-column>
 
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
         <mj-column width="220">
