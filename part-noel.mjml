@@ -29,20 +29,20 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="95" src="https://statics.lapeyre.fr/img/contrib/emails/*img/magasin.png" padding="0" padding-top="16px"
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="95" src="img/magasin.png" padding="0" padding-top="16px"
               padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="243" src="https://statics.lapeyre.fr/img/contrib/emails/*img/logo.png" padding="0" />
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="243" src="img/logo.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="101" src="https://statics.lapeyre.fr/img/contrib/emails/*img/espace.png"
+            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="101" src="img/espace.png"
               padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
@@ -52,7 +52,7 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="600" src="https://statics.lapeyre.fr/img/contrib/emails/*img/part-noel/banner.png" padding="0" />
+          <mj-image href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" width="600" src="img/part-noel/banner.png" padding="0" />
 
         </mj-column>
 
@@ -77,7 +77,7 @@ le SAVOIR BIEN FAIRE de Lapeyre à prix réduit. Cuisines, salles de bains, menu
         height="361px"
         background-width="500"
         background-height="361px"
-        background-url="https://statics.lapeyre.fr/img/contrib/emails/*img/part-noel/code.png"
+        background-url="img/part-noel/code.png"
        padding-top="280px">
         <mj-hero-content width="100%">
           <mj-button href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" align="center" background-color="#aa192d">
@@ -88,11 +88,11 @@ le SAVOIR BIEN FAIRE de Lapeyre à prix réduit. Cuisines, salles de bains, menu
         
         <mj-section padding="0" padding-top="60" padding-bottom="40">
           <mj-column>
-           <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=fb&utm_content=octobre" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/part-noel/block-3.png" padding="0" padding-bottom="20" />
+           <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=fb&utm_content=octobre" width="237" src="img/part-noel/block-3.png" padding="0" padding-bottom="20" />
           </mj-column>
           
           <mj-column>
-            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=fb&utm_content=octobre" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/part-noel/block-4.png" padding="0" padding-bottom="20" />
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=fb&utm_content=octobre" width="237" src="img/part-noel/block-4.png" padding="0" padding-bottom="20" />
           </mj-column>
         </mj-section>
         
@@ -116,21 +116,21 @@ le SAVOIR BIEN FAIRE de Lapeyre à prix réduit. Cuisines, salles de bains, menu
 
         <mj-group>
           <mj-column width="20%">
-            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=fb&utm_content=push1" width="12" src="https://statics.lapeyre.fr/img/contrib/emails/*img/fb.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=fb&utm_content=push1" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=instagram&utm_content=push1" width="25" src="https://statics.lapeyre.fr/img/contrib/emails/*img/insta.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=instagram&utm_content=push1" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=pinterest&utm_content=push1" width="22" src="https://statics.lapeyre.fr/img/contrib/emails/*img/pinterest.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=pinterest&utm_content=push1" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=yt&utm_content=push1" width="21" src="https://statics.lapeyre.fr/img/contrib/emails/*img/yt.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=yt&utm_content=push1" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=tw&utm_content=push1" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=tw&utm_content=push1" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
         </mj-group>

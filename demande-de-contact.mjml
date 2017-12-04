@@ -29,19 +29,19 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image width="95" src="https://statics.lapeyre.fr/img/contrib/emails/*img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image width="183" src="https://statics.lapeyre.fr/img/contrib/emails/*img/logo.png" padding="0" />
+            <mj-image width="183" src="img/logo.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image width="101" src="https://statics.lapeyre.fr/img/contrib/emails/*img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
         </mj-group>
@@ -50,7 +50,7 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="600" src="https://statics.lapeyre.fr/img/contrib/emails/*img/demande-de-contact/banner.png" padding="0" />
+          <mj-image width="600" src="img/demande-de-contact/banner.png" padding="0" />
 
         </mj-column>
 
@@ -74,7 +74,7 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="374" src="https://statics.lapeyre.fr/img/contrib/emails/*img/demande-de-contact/title.png" padding="0" />
+          <mj-image width="374" src="img/demande-de-contact/title.png" padding="0" />
 
         </mj-column>
 
@@ -84,7 +84,7 @@
         <mj-section padding="55" padding-top="30" padding-bottom="20" border-top="1px dashed #000" border-left="1px dashed #000" border-right="1px dashed #000">
           <mj-group>
             <mj-column width="10%">
-              <mj-image width="36" src="https://statics.lapeyre.fr/img/contrib/emails/*img/demande-de-contact/icon1.png" padding="0" align="left" />
+              <mj-image width="36" src="img/demande-de-contact/icon1.png" padding="0" align="left" />
             </mj-column>
 
             <mj-column width="45%">
@@ -129,19 +129,19 @@
 
         <mj-group>
           <mj-column width="20%">
-            <mj-image href="https://www.facebook.com/Lapeyre/" width="12" src="https://statics.lapeyre.fr/img/contrib/emails/*img/fb.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.facebook.com/Lapeyre/" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/" width="25" src="https://statics.lapeyre.fr/img/contrib/emails/*img/insta.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="https://statics.lapeyre.fr/img/contrib/emails/*img/pinterest.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="https://statics.lapeyre.fr/img/contrib/emails/*img/yt.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
           </mj-column>
         </mj-group>
       </mj-section>
