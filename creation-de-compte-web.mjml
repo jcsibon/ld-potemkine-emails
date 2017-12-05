@@ -34,6 +34,11 @@
 
           </mj-column>
 
+          <mj-column width="60%">
+
+            <mj-image width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
 
           <mj-column width="20%">
 
@@ -45,7 +50,6 @@
 
       <mj-section padding-top="10">
         <mj-column>
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
           <mj-image href="https://www.lapeyre.fr/" width="600" src="img/creation-de-compte-web/banner.png" padding="0" />
 
         </mj-column>
