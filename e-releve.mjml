@@ -220,10 +220,10 @@
               Votre fidélité rapporte! Utilisez votre chèque Lapeyre Pro+ et profitez de nombreux avantages.
             </mj-text>
 
-            <mj-text padding="40" padding-bottom="30px" font-weight="700" font-size="45" color="#EA0028" align="center" container-background-color="#fff">
+            <mj-text padding="20" padding-bottom="20px" font-weight="700" font-size="30" color="#EA0028" align="center" container-background-color="#fff">
               <a href="http://www.lapeyreproplus.com?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" style="display:inline-block; color:#EA0028; text-decoration:none;">
-            	<span>400€</span></br>
-          <span style="font-weight:400; font-size:14px; ">dans votre cagnotte</span>
+              <span>4000000€</span></br>
+          <span style="font-weight:400; font-size:12px; ">dans votre cagnotte</span>
             </a>
 
             </mj-text>
