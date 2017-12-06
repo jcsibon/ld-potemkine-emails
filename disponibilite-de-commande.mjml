@@ -14,10 +14,6 @@
     <mj-container>
       <mj-section padding-top="10">
         <mj-column>
-          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
-            Disponibilité de votre commande.
-          </mj-text>
-
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
@@ -63,7 +59,7 @@
           </mj-text>
           
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Votre commande N°XXXXXXXXX est prête ! Vous pouvez dès à présent venir la retirer dans votre magasin <b>BORDEAUX MERIGNAC</b>, munis de votre bon de commande et d'une pièce d'identité.  
+            Votre commande N°XXXXXXXXX est prête. Vous pouvez dès à présent venir la retirer dans votre magasin <b>BORDEAUX MERIGNAC</b>, en vous munissant de votre bon de commande et d'une pièce d'identité.  
           </mj-text>
          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             <b>Vos références</b> : LE GENDRE 000000
@@ -76,7 +72,7 @@
             Je choisis mon créneau horaire 
           </mj-button>          
           <mj-text padding-top="35" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Vous avez aussi la possibilité de régler votre commande:
+            Vous avez aussi la possibilité de régler votre commande :
           </mj-text>
      
           <mj-button href="#" font-family="Arial" background-color="#b8001f" color="white" font-size="14px" height="30px" padding-top="35px">
