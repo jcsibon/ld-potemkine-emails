@@ -65,7 +65,7 @@
             <b>Vos références</b> : LE GENDRE 000000
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Afin de gagner du temps lors de votre venue, nous vous invitons à choisir un créneau horaire:
+            Afin de gagner du temps lors de votre venue, nous vous invitons à choisir un créneau horaire :
           </mj-text>
            </mj-text>
            <mj-button href="#" font-family="Arial" background-color="#b8001f" color="white" font-size="14px" height="30px" padding-top="35px">
