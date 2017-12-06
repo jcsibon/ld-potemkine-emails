@@ -1,4 +1,4 @@
- <mjml>
+<mjml>
 
   <mj-head>
 
@@ -63,7 +63,7 @@
           </mj-text>
           
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous confirmons votre demande de retrait dans votre magasin <b>BORDEAUX MERIGNAC</b> le <b>00/00/00</b> entre <b>13H</b> et <b>14H</b>.   
+            Nous vous confirmons votre retrait dans votre magasin <b>BORDEAUX MERIGNAC</b> prévu le <b>00/00/00</b> entre <b>13H</b> et <b>14H</b>.   
           </mj-text>
           
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
