@@ -15,9 +15,6 @@
 
      <mj-section padding-top="10">
         <mj-column>
-          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
-            Bienvenue.
-          </mj-text>
 
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
@@ -63,7 +60,7 @@
             Bonjour Jennifer,
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Merci d’avoir créé un compte sur notre site !
+            Nous vous remerçions pour votre inscription.
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Pour faire de vos projets d’aménagement une réalité et découvrir tous nos produits et notre Savoir Bien Faire, rendez-vous sur <a href="https://www.lapeyre.fr" style="color:#ea0028">Lapeyre.fr</a> ou dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color: #EA0028">votre magasin</a> le plus proche.
