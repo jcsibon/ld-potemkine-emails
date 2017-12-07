@@ -14,10 +14,6 @@
     <mj-container>
       <mj-section padding-top="10">
         <mj-column>
-          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
-            Vos infos fidelité.
-          </mj-text>
-
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=lien_miroir&utm_content=octobre" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
@@ -238,17 +234,6 @@
             </mj-button>
           </mj-column>
         </mj-section>
-
-        <mj-section padding-top="40">
-          <mj-column>
-            <mj-image href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" width="600" src="img/e_releve/fond-cagnotte.png" padding="0" padding-bottom="0" />
-
-            <mj-button href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=ereleve&utm_term=accroche&utm_content=octobre" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="55px"
-              padding-bottom="0">
-              Voir toutes les offres
-            </mj-button>
-          </mj-column>
-        </mj-section>
       </mj-wrapper>
 
         <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
@@ -279,7 +264,10 @@
 
         <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
           <mj-column>
-            <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+          <mj-text padding-top="30" padding-bottom="0" font-size="13" color="#404040" align="center">
+            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service client.</a> 
+          </mj-text>
+            <mj-text padding-top="50" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
               LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
               pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant.
               Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement
