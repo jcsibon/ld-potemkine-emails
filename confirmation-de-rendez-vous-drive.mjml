@@ -14,9 +14,7 @@
     <mj-container>
       <mj-section padding-top="10">
         <mj-column>
-          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
-            Confirmation de demande de retrait.
-          </mj-text>
+
 
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
@@ -81,7 +79,13 @@
         </mj-column>
       </mj-section>
 
-      
+             <mj-section>
+        <mj-column>
+          <mj-text padding-top="30" padding-bottom="0" font-size="13" color="#404040" align="center">
+            <i>Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service client.</a></i> 
+          </mj-text>
+        </mj-column>
+      </mj-section>      
 
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
         <mj-column width="220">
