@@ -15,7 +15,6 @@
       <mj-section padding-top="10">
         <mj-column>
 
-
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
@@ -48,7 +47,7 @@
       <mj-section padding-top="0">
         <mj-column>
 
-          <mj-image width="600" src="img/reponse-a-la-demande-de-contact/banner.png" padding="0" />
+          <mj-image width="600" src="img/bon-de-commande/banner.png" padding="0" />
 
         </mj-column>
 
@@ -61,16 +60,13 @@
           </mj-text>
           
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous confirmons votre retrait dans votre magasin <b>BORDEAUX MERIGNAC</b> prévu le <b>00/00/00</b> entre <b>13H</b> et <b>14H</b>.   
+            Nous avons le plaisir de vous faire parvenir votre bon de commande.
           </mj-text>
           
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Lors de votre venue, merci de vous munir de votre bon de commande et d'une pièce d'identité. Si vous souhaitez modifier votre créneau, merci de prendre directement contact avec <a href="https://www.lapeyre.fr/nosmagasins" style="color:#EA0028; font-style:italic;">votre magasin</a>. 
-          </mj-text>
-
-                    <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
             Nous vous remercions de votre confiance et nous serons heureux de vous accueillir dans <a href="https://www.lapeyre.fr/nosmagasins" style="color:#EA0028; font-style:italic;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">Lapeyre.fr</a>.
           </mj-text>
+
           
           <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe Lapeyre.
@@ -85,7 +81,7 @@
             <i>Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service client.</a></i> 
           </mj-text>
         </mj-column>
-      </mj-section>      
+      </mj-section>
 
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
         <mj-column width="220">
