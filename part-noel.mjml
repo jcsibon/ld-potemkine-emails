@@ -60,7 +60,7 @@
 
 
 
-      <mj-wrapper padding="0 50px">
+      <mj-wrapper padding="0 30px">
         
         <mj-section padding="0" padding-top="20" padding-bottom="50">
           <mj-column>
@@ -74,11 +74,11 @@ le SAVOIR BIEN FAIRE de Lapeyre à prix réduit. Cuisines, salles de bains, menu
         </mj-section>
         
         <mj-hero
-        height="361px"
+        mode="fluid-height"         
         background-width="500"
         background-height="361px"
         background-url="img/part-noel/code.png"
-       padding-top="280px">
+       vertical-align="bottom">
         <mj-hero-content width="100%">
           <mj-button href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=noeldesprixbienfaits&utm_term=accroche&utm_content=push1" align="center" background-color="#aa192d">
             J’en profite
