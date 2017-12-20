@@ -33,6 +33,10 @@
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Vous recevrez dans les prochaines minutes un autre email attestant de la bonne prise en compte de votre commande par le magasin.
           </mj-text>
+                    <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="right">
+            L'équipe Lapeyre.
+
+          </mj-text>
         </mj-column>
       </mj-section>
 
