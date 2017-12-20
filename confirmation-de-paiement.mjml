@@ -28,7 +28,7 @@
             Bonjour Prénom Nom,
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous venons de recevoir la validation de votre paiement pour votre commande référence WEB000000 effectuée le 00/00/2017 à 00h00, pour un montant total de 0 000,00 € TTC.
+            Nous venons de recevoir la validation de votre paiement pour votre commande référence WEB000000 effectuée le 00/00/2017, pour un montant total de 0 000,00 € TTC.
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Vous recevrez dans les prochaines minutes un autre email attestant de la bonne prise en compte de votre commande par le magasin.
@@ -64,6 +64,9 @@
 
       <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
         <mj-column>
+          <mj-text padding-top="30" padding-bottom="0" font-size="13" color="#404040" align="center">
+            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service client.</a> 
+          </mj-text>
           <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
             LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
             pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
