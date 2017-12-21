@@ -181,7 +181,7 @@ La Pose, vous permet de faire appel à un expert pour installer vos équipements
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=tw&utm_content=decembre_17" padding="0" padding-bottom="0" />
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=tw&utm_content=decembre_17" padding="0" padding-bottom="0" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg" />
           </mj-column>
         </mj-group>
       </mj-section>

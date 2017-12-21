@@ -147,7 +147,7 @@ Cuisines, salles de bains, menuiseries… bénéficiez de notre SAVOIR BIEN FAIR
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=tw&utm_content=pro" padding="0" padding-bottom="0"
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=tw&utm_content=pro" padding="0" padding-bottom="0" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg"
             />
           </mj-column>
         </mj-group>
