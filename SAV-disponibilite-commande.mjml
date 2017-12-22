@@ -31,22 +31,22 @@
             Nous avons le plaisir de vous informer que votre commande est disponible dans notre magasin de <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:bold;">STORE_NAME</a>. 
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Elle vous sera remise sous présentation de cet email et de votre constat de fin de réclamation.
+            Elle vous sera remise sur présentation de cet email et de votre constat de fin de réclamation.
           </mj-text>
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Comme indiqué dans notre Livret de Garantie, nous vous demandons de bien vouloir vérifier la conformité de vos produits au moment de l'enlèvement.
           </mj-text>     
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous nous tenons à votre disposition pour de plus amples renseignements et nous vous remercions pour votre confiance.
+            Pour de plus amples informations, nous vous prions de bien vouloir contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style;">service client</a>.
           </mj-text>    
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous prions d'agréer, Monsieur, l'expression de nos salutations distinguées.
+            Nous vous remercions de votre confiance et nous serons heureux de vous accueillir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style;">Lapeyre.fr</a>.
           </mj-text>  
                     <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="right">
             USER_FNAME
           </mj-text>
                     <mj-text padding-top="10" padding-bottom="0" font-size="20" color="#404040" align="right">
-            Votre conseiller SAV Lapeyre
+            L'équipe SAV Lapeyre
           </mj-text>          
         </mj-column>
       </mj-section>

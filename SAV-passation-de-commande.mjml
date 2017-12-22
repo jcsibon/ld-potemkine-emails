@@ -28,25 +28,25 @@
             Bonjour Monsieur CON_LN,
           </mj-text>
           <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous accusons réception de votre demande de Service Après Vente.
+            Nous avons bien reçu votre demande de Service Après Vente.
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Après étude, nous avons le plaisir de vous informer qu'une commande de "..." a été effectuée ce jour, dans le cadre de la mise en oeuvre de la Garantie Lapeyre.
+            Nous avons le plaisir de vous informer que votre demande est couverte par la Garantie Lapeyre. Une commande de "..." a donc été effectuée ce jour.
           </mj-text>
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            A réception en magasin, un email vous sera envoyé afin que vous puissiez retirer votre commande.  
+            Nous vous informerons par email de la reception de votre commande, afin que vous puissiez la retirer en magasin.  
           </mj-text>     
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous nous tenons à votre disposition pour de plus amples renseignements et vous remercions pour la confiance que vous nous accrodez.
+            Pour de plus amples informations, nous vous prions de bien vouloir contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style;">service client</a>.
           </mj-text>    
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous prions d'agréer, Monsieur, l'expression de nos salutations distinguées.
+            Nous vous remercions de votre confiance et nous serons heureux de vous accueillir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style;">Lapeyre.fr</a>.
           </mj-text>  
           <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="right">
             USER_FNAME
           </mj-text>
           <mj-text padding-top="10" padding-bottom="0" font-size="20" color="#404040" align="right">
-            Votre conseiller SAV Lapeyre
+            L'équipe SAV Lapeyre
           </mj-text>
         </mj-column>
       </mj-section>

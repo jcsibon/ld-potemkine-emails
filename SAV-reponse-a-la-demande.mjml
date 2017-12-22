@@ -28,7 +28,7 @@
             Bonjour Monsieur CON_LN,
           </mj-text>
           <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous accusons réception de votre courrier relatif à votre demande de SAV Lapeyre. 
+            Nous avons bien recçu votre courrier relatif à votre demande de SAV Lapeyre. 
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Après examen de votre dossier, nous avons le regret de vous informer que nous ne pourrons pas répondre favrablement à votre demande.
@@ -37,17 +37,16 @@
             En effet, (au cas par cas)...
           </mj-text>     
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Il est toutefois possible de vous proposer un devis de réparation et intervenir à votre domicile pour le dépannage ou la réparation de votre produit. Si vous souhaitez donner suite, nous nous tenons à votre disposition.
+            Nous pouvons vous proposer un devis de réparation et intervenir à votre domicile pour le dépannage ou la réparation de votre produit. Si cela vous intéresse, nous nous tenons à votre disposition.
           </mj-text>   
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous prions d'agréer, Monsieur CON_LN, l'expression de nos salutations distinguées.
+            Nous vous remercions de votre confiance et nous serons heureux de vous accueillir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style;">Lapeyre.fr</a>.
           </mj-text>  
-
                     <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="right">
             USER_FNAME
           </mj-text>
                     <mj-text padding-top="10" padding-bottom="0" font-size="20" color="#404040" align="right">
-            Votre conseiller SAV Lapeyre
+            L'équipe SAV Lapeyre
           </mj-text>          
         </mj-column>
       </mj-section>
