@@ -28,10 +28,10 @@
             Bonjour Monsieur CON_LN,
           </mj-text>
           <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Comme convenu par téléphone, nous avons le plaisir de vous confirmer la visite de l'un de nos techniciens SAV à votre domicile le <b>INTERV_DATE à INTERV_TIME heures</b>. 
+            Comme convenu par téléphone, un de nos techniciens SAV se rendra à votre domicile le <b>INTERV_DATE à INTERV_TIME heures</b>. 
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Après diagnistic, dans le cas où notre responsabilité est engagée, nous prenons entièrement en charge l'intervention au titre de la garantie, dans le cas contraire, le déplacement de notre technicien SAV vous sera facturé à hauteur de 50 euros majorés du temps passé.
+            Après diagnistic, dans le cas où notre responsabilité est engagée, nous prenons entièrement en charge l'intervention au titre de la garantie. Dans le cas contraire, le déplacement de notre technicien SAV vous sera facturé à hauteur de 50 euros majorés du temps passé.
           </mj-text>
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             En cas d'indisponibilité ou d'empêchement, n'hésitez pas à nous contacter au <b>XXXXXXXX</b>. (prix)
