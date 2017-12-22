@@ -39,10 +39,6 @@
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Nous vous remercions de votre confiance et nous serons heureux de vous accueillir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style;">Lapeyre.fr</a>.
           </mj-text>   
-
-                    <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="right">
-            USER_FNAME
-          </mj-text>
                     <mj-text padding-top="10" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe SAV Lapeyre
           </mj-text>          
