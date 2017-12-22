@@ -25,21 +25,21 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="95" src="https://statics.lapeyre.fr/img/contrib/emails/*img/magasin.png" padding="0"
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="95" src="img/magasin.png" padding="0"
               padding-top="16px" padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="183" src="https://statics.lapeyre.fr/img/contrib/emails/*img/logo.png"
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="183" src="img/logo.png"
               padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="101" src="https://statics.lapeyre.fr/img/contrib/emails/*img/espace.png"
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="101" src="img/espace.png"
               padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
@@ -49,7 +49,7 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="600" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/banner.png" padding="0" />
+          <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" width="600" src="img/newsletter-decembre/banner.png" padding="0" />
         </mj-column>
       </mj-section>
 
@@ -59,7 +59,7 @@
           <mj-column>
             <mj-text padding-top="10" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">Maintenant que vous êtes des nôtres, laissez-vous porter à travers l’univers Lapeyre.
             </mj-text>
-            <mj-image width="500" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/block1.png" padding="0" padding-top="50"
+            <mj-image width="500" src="img/newsletter-decembre/block1.png" padding="0" padding-top="50"
             />
 
           </mj-column>
@@ -86,35 +86,15 @@
       </mj-section>
 
         <mj-section padding="0" padding-top="0" padding-bottom="0">
-          <mj-column width="50%">
-            <mj-image width="250" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/block2.png" padding="0" padding-top="0"
-            />
-          </mj-column>
-          
-          <mj-column width="50%">
-					<mj-image width="250" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/block-txt.png" padding="0" padding-top="0"
+          <mj-column width="100%">
+            <mj-image width="500" src="img/newsletter-decembre/block2.png" padding="0" padding-top="0"
             />
           </mj-column>
         </mj-section>
         
         <mj-section padding="0" padding-top="0" padding-bottom="0">
-          <mj-column width="50%" border="1px dashed #ea0028">
-            <mj-text padding-top="60" padding-bottom="5" padding-left="30" padding-right="30" font-size="14" font-weight="600" color="#000" text-transform="uppercase" align="left">Réponse d’expert 
-
-            </mj-text>
-            
-            <mj-text  padding-top="0" padding-bottom="15" padding-left="30" padding-right="30" font-size="14" font-weight="400" color="#000" align="left">Comment gagner de l’espace dans une petite chambre ?
-
-            </mj-text>
-            
-            <mj-button href="https://www.lapeyre.fr/c/magazine/reponses-experts/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" background-color="#AA192D" color="white" font-size="14px" height="25px" padding="0px"
-              padding-bottom="57">
-              Poser sa question
-            </mj-button>
-          </mj-column>
-          
-          <mj-column width="50%">
-            <mj-image width="250" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/block2.png" padding="0" padding-top="0" padding-bottom="0"
+          <mj-column width="100%">
+            <mj-image width="500" src="img/newsletter-decembre/block3.png" padding="0" padding-top="0"
             />
           </mj-column>
         </mj-section>
@@ -128,7 +108,7 @@
         <mj-section padding="30" padding-top="30" padding-bottom="30" border="1px dashed #ea0028">
           <mj-column>
             
-            <mj-image width="59" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/icon1.png" padding="0" padding-top="0" padding-bottom="0"
+            <mj-image width="59" src="img/newsletter-decembre/icon1.png" padding="0" padding-top="0" padding-bottom="0"
             />
             <mj-text padding-top="30" padding-bottom="10" padding-left="0" padding-right="0" font-size="18" font-weight="600" color="#404040" text-transform="uppercase" align="left">Les coups de main qui font du bien ! 
 
@@ -145,7 +125,7 @@ La Pose, vous permet de faire appel à un expert pour installer vos équipements
         <mj-section padding="30" padding-top="50" padding-bottom="50">
           <mj-column>
             
-            <mj-image href="https://www.lapeyre.fr/sols-murs-CCU0007#SCU687949?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="491" src="https://statics.lapeyre.fr/img/contrib/emails/*img/newsletter-decembre/texte.png" padding="0" padding-top="0" padding-bottom="0"
+            <mj-image href="https://www.lapeyre.fr/sols-murs-CCU0007#SCU687949?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="491" src="img/newsletter-decembre/texte.png" padding="0" padding-top="0" padding-bottom="0"
             />
             
             <mj-button href="https://www.lapeyre.fr/echelles-escamotables-CCN0066?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=decembre_17" background-color="#AA192D" color="white" font-size="14px" height="25px" padding="0px"
@@ -165,23 +145,23 @@ La Pose, vous permet de faire appel à un expert pour installer vos équipements
 
         <mj-group>
           <mj-column width="20%">
-            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=fb&utm_content=decembre_17" width="12" src="https://statics.lapeyre.fr/img/contrib/emails/*img/fb.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=fb&utm_content=decembre_17" width="12" src="img/fb.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=instagram&utm_content=decembre_17" width="25" src="https://statics.lapeyre.fr/img/contrib/emails/*img/insta.jpg" padding="0"
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=instagram&utm_content=decembre_17" width="25" src="img/insta.jpg" padding="0"
               padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=pinterest&utm_content=decembre_17" width="22" src="https://statics.lapeyre.fr/img/contrib/emails/*img/pinterest.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=pinterest&utm_content=decembre_17" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=yt&utm_content=decembre_17" width="21" src="https://statics.lapeyre.fr/img/contrib/emails/*img/yt.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=yt&utm_content=decembre_17" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=tw&utm_content=decembre_17" padding="0" padding-bottom="0" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg" />
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=tw&utm_content=decembre_17" padding="0" padding-bottom="0" width="26" src="img/twitter.jpg" />
           </mj-column>
         </mj-group>
       </mj-section>
