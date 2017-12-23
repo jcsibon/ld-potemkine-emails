@@ -1,4 +1,3 @@
-<mjml>
 
   <mj-head>
 
@@ -29,20 +28,20 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="95" src="https://statics.lapeyre.fr/img/contrib/emails/*img/magasin.png" padding="0" padding-top="16px"
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="95" src="img/magasin.png" padding="0" padding-top="16px"
               padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="183" src="https://statics.lapeyre.fr/img/contrib/emails/*img/logo-pro.png" padding="0" />
+            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="183" src="img/logo-pro.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="101" src="https://statics.lapeyre.fr/img/contrib/emails/*img/espace.png"
+            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="101" src="img/espace.png"
               padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
@@ -52,7 +51,7 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="600" src="https://statics.lapeyre.fr/img/contrib/emails/*img/pac-generique/banner.png"
+          <mj-image href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="600" src="img/pac-generique/banner.png"
             padding="0" />
         </mj-column>
       </mj-section>
@@ -73,19 +72,19 @@ Cuisines, salles de bains, menuiseries… bénéficiez de notre SAVOIR BIEN FAIR
 
         <mj-section padding="0" padding-top="0" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/sols-murs-CCU0007#SCU687949?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="498" src="https://statics.lapeyre.fr/img/contrib/emails/*img/nouvel-an-pbf-pro/block1.png" padding="0" padding-bottom="20" />
+            <mj-image href="https://www.lapeyre.fr/sols-murs-CCU0007#SCU687949?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="498" src="img/180103-nouvel-an-pbf-pro/block1.png" padding="0" padding-bottom="20" />
 
           </mj-column>
         </mj-section>
 
         <mj-section padding="0" padding-top="0" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/portes-entree-CCN0051?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/nouvel-an-pbf-pro/block2.png"
+            <mj-image href="https://www.lapeyre.fr/portes-entree-CCN0051?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="img/180103-nouvel-an-pbf-pro/block2.png"
               padding="0" padding-bottom="20" />
           </mj-column>
 
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/meubles-modeles-cuisine-CCN0010?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/nouvel-an-pbf-pro/block3.png" padding="0"
+            <mj-image href="https://www.lapeyre.fr/meubles-modeles-cuisine-CCN0010?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="img/180103-nouvel-an-pbf-pro/block3.png" padding="0"
               padding-bottom="10" />
 
           </mj-column>
@@ -93,7 +92,7 @@ Cuisines, salles de bains, menuiseries… bénéficiez de notre SAVOIR BIEN FAIR
 
         <mj-section padding="0" padding-top="0" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/fenetres-CCN0036?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="498" src="https://statics.lapeyre.fr/img/contrib/emails/*img/nouvel-an-pbf-pro/block4.png"
+            <mj-image href="https://www.lapeyre.fr/fenetres-CCN0036?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="498" src="img/180103-nouvel-an-pbf-pro/block4.png"
               padding="0" padding-bottom="20" />
 
           </mj-column>
@@ -101,12 +100,12 @@ Cuisines, salles de bains, menuiseries… bénéficiez de notre SAVOIR BIEN FAIR
         
         <mj-section padding="0" padding-top="0" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/modele-creamix-FPC473019?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/nouvel-an-pbf-pro/block5.png"
+            <mj-image href="https://www.lapeyre.fr/modele-creamix-FPC473019?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="img/180103-nouvel-an-pbf-pro/block5.png"
               padding="0" padding-bottom="20" />
           </mj-column>
 
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/escaliers-interieur-CCN0227?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/nouvel-an-pbf-pro/block6.png" padding="0"
+            <mj-image href="https://www.lapeyre.fr/escaliers-interieur-CCN0227?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=accroche&utm_content=pro" width="237" src="img/180103-nouvel-an-pbf-pro/block6.png" padding="0"
               padding-bottom="10" />
 
           </mj-column>
@@ -132,22 +131,22 @@ Cuisines, salles de bains, menuiseries… bénéficiez de notre SAVOIR BIEN FAIR
 
         <mj-group>
           <mj-column width="20%">
-            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=fb&utm_content=pro" width="12" src="https://statics.lapeyre.fr/img/contrib/emails/*img/fb.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=fb&utm_content=pro" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=instagram&utm_content=pro" width="25" src="https://statics.lapeyre.fr/img/contrib/emails/*img/insta.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=instagram&utm_content=pro" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=pinterest&utm_content=pro" width="22" src="https://statics.lapeyre.fr/img/contrib/emails/*img/pinterest.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=pinterest&utm_content=pro" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=yt&utm_content=pro" width="21" src="https://statics.lapeyre.fr/img/contrib/emails/*img/yt.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=yt&utm_content=pro" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=tw&utm_content=pro" padding="0" padding-bottom="0" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg"
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=nouvelandesprixbienfaits&utm_term=tw&utm_content=pro" padding="0" padding-bottom="0" width="26" src="img/twitter.jpg"
             />
           </mj-column>
         </mj-group>

@@ -29,20 +29,20 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="95" src="https://statics.lapeyre.fr/img/contrib/emails/*img/magasin.png" padding="0" padding-top="16px"
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="95" src="img/magasin.png" padding="0" padding-top="16px"
               padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="183" src="https://statics.lapeyre.fr/img/contrib/emails/*img/logo.png" padding="0" />
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="183" src="img/logo.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="101" src="https://statics.lapeyre.fr/img/contrib/emails/*img/espace.png"
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="101" src="img/espace.png"
               padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
@@ -52,7 +52,7 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="600" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/banner.png"
+          <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="600" src="img/carte-club-janv/banner.png"
             padding="0" />
         </mj-column>
       </mj-section>
@@ -71,7 +71,7 @@
 
         <mj-section padding="0" padding-top="0" padding-bottom="40">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/portes-garage-CCN0076?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block1.png"
+            <mj-image href="https://www.lapeyre.fr/portes-garage-CCN0076?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="img/carte-club-janv/block1.png"
               padding="0" padding-bottom="20" />
 
           </mj-column>
@@ -79,12 +79,12 @@
 
         <mj-section padding="0" padding-top="0" padding-bottom="40">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/portes-placard-CCN0084?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block2.png"
+            <mj-image href="https://www.lapeyre.fr/portes-placard-CCN0084?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="img/carte-club-janv/block2.png"
               padding="0" padding-bottom="20" />
           </mj-column>
 
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/wc-poser-CCN0130?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block3.png" padding="0"
+            <mj-image href="https://www.lapeyre.fr/wc-poser-CCN0130?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="img/carte-club-janv/block3.png" padding="0"
               padding-bottom="20" />
 
           </mj-column>
@@ -92,7 +92,7 @@
 
         <mj-section padding="0" padding-top="0" padding-bottom="40">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/ecrans-pour-baignoire-CCN0122?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block4.png"
+            <mj-image href="https://www.lapeyre.fr/ecrans-pour-baignoire-CCN0122?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="img/carte-club-janv/block4.png"
               padding="0" padding-bottom="20" />
 
           </mj-column>
@@ -113,7 +113,7 @@
 
         <mj-section padding="0" padding-top="0" padding-bottom="40" background-color="#f8f8f8">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/fenetres-CCN0036?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block5.png" padding="0"
+            <mj-image href="https://www.lapeyre.fr/fenetres-CCN0036?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="img/carte-club-janv/block5.png" padding="0"
               padding-bottom="20" />
 
           </mj-column>
@@ -121,12 +121,12 @@
 
         <mj-section padding="0" padding-top="0" padding-bottom="40" background-color="#f8f8f8">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/escaliers-interieur-CCN0227?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block6.png"
+            <mj-image href="https://www.lapeyre.fr/escaliers-interieur-CCN0227?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="img/carte-club-janv/block6.png"
               padding="0" padding-bottom="20" />
           </mj-column>
 
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/portes-de-placard-coulissantes-CCN642980?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block7.png"
+            <mj-image href="https://www.lapeyre.fr/portes-de-placard-coulissantes-CCN642980?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="237" src="img/carte-club-janv/block7.png"
               padding="0" padding-bottom="20" />
 
           </mj-column>
@@ -134,7 +134,7 @@
 
         <mj-section padding="0" padding-top="0" padding-bottom="40" background-color="#f8f8f8">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/modele-creamix-FPC473019?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/block8.png"
+            <mj-image href="https://www.lapeyre.fr/modele-creamix-FPC473019?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="498" src="img/carte-club-janv/block8.png"
               padding="0" padding-bottom="20" />
 
           </mj-column>
@@ -145,7 +145,7 @@
       <mj-wrapper padding="0 30px">
         <mj-section padding="0" padding-top="50" padding-bottom="40">
           <mj-column>
-            <mj-image width="387" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/avantages.png" padding="0" padding-bottom="20" />
+            <mj-image width="387" src="img/carte-club-janv/avantages.png" padding="0" padding-bottom="20" />
 
             <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="center">La Carte Club c’est l’accès à une multitude d’offres exclusives et services privilégiés pendant <span style="color:#ea0028;font-weight:600;text-decoration:underline;">3 ans</span>.
             </mj-text>
@@ -154,22 +154,22 @@
 
         <mj-section padding="0" padding-top="50" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="243" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/offre1.png"
+            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="243" src="img/carte-club-janv/offre1.png"
               padding="0" padding-bottom="40" padding-right="10" align="left" />
           </mj-column>
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="236" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/offre2.png"
+            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="236" src="img/carte-club-janv/offre2.png"
               padding="0" padding-bottom="40" padding-right="10" align="left" />
           </mj-column>
         </mj-section>
 
         <mj-section padding="0" padding-top="0" padding-bottom="40">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="226" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/offre3.png"
+            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="226" src="img/carte-club-janv/offre3.png"
               padding="0" padding-bottom="40" padding-right="10" align="left" />
           </mj-column>
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="260" src="https://statics.lapeyre.fr/img/contrib/emails/*img/carte-club-janv/offre4.png"
+            <mj-image href="https://www.lapeyre.fr/c/h/carte-club-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=accroche&utm_content=janvier_1" width="260" src="img/carte-club-janv/offre4.png"
               padding="0" padding-bottom="40" padding-right="10" align="left" />
           </mj-column>
         </mj-section>
@@ -185,22 +185,22 @@
 
         <mj-group>
           <mj-column width="20%">
-            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=fb&utm_content=janvier_1" width="12" src="https://statics.lapeyre.fr/img/contrib/emails/*img/fb.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=fb&utm_content=janvier_1" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=instagram&utm_content=janvier_1" width="25" src="https://statics.lapeyre.fr/img/contrib/emails/*img/insta.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=instagram&utm_content=janvier_1" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=pinterest&utm_content=janvier_1" width="22" src="https://statics.lapeyre.fr/img/contrib/emails/*img/pinterest.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=pinterest&utm_content=janvier_1" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=yt&utm_content=janvier_1" width="21" src="https://statics.lapeyre.fr/img/contrib/emails/*img/yt.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=yt&utm_content=janvier_1" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=tw&utm_content=janvier_1" width="26" src="https://statics.lapeyre.fr/img/contrib/emails/*img/twitter.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=offredumois&utm_term=tw&utm_content=janvier_1" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
         </mj-group>
