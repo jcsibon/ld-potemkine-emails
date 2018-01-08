@@ -14,8 +14,41 @@
     <mj-container>
       <mj-section padding-top="10">
         <mj-column>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Disponibilité de votre commande.
+          </mj-text>
 
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0">        
+        <mj-column>
           <mj-image href="https://www.lapeyre.fr/" width="600" src="img/SAV-disponibilite-commande/banner.png" padding="0" />
 
         </mj-column>
@@ -37,13 +70,13 @@
             Comme indiqué dans notre Livret de Garantie, nous vous demandons de bien vouloir vérifier la conformité de vos produits au moment de l'enlèvement.
           </mj-text>     
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Pour de plus amples informations, nous vous prions de bien vouloir contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style;">service client</a>.
+            Pour de plus amples informations, nous vous prions de bien vouloir contacter notre service après vente au <b>XXXXXXXXX.</b>
           </mj-text>    
            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Nous vous remercions de votre confiance et nous serons heureux de vous accueillir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style;">Lapeyre.fr</a>.
           </mj-text>  
 
-                    <mj-text padding-top="10" padding-bottom="0" font-size="20" color="#404040" align="right">
+                    <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe SAV Lapeyre
           </mj-text>          
         </mj-column>
