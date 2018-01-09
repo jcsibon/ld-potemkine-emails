@@ -15,7 +15,9 @@
 
      <mj-section padding-top="10">
         <mj-column>
-
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+          Nous vous remerçions pour votre inscription.  
+          </mj-text>
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
