@@ -15,6 +15,9 @@
       <mj-section padding-top="10">
         <mj-column>
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+          Votre commande est disponible.
+          </mj-text>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
         </mj-column>
@@ -80,7 +83,7 @@
           </mj-button>
      
                     <mj-text padding-top="35" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous remercions de votre confiance et nous serons heureux de vous acceullir dans <a href="https://www.lapeyre.fr/nosmagasins" style="color:#EA0028; font-style:italic;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">Lapeyre.fr</a>.
+            Nous vous remercions de votre confiance et nous serons heureux de vous acceullir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style:italic;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">Lapeyre.fr</a>.
           </mj-text>
           
           <mj-text padding-top="35" padding-bottom="0" font-size="20" color="#404040" align="right">
@@ -120,7 +123,7 @@
         <mj-column>
          
           <mj-text padding-top="30" padding-bottom="0" font-size="13" color="#404040" align="center">
-            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service client.</a> 
+            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="https://www.lapeyre.fr/contact?formName=contactServiceClient" style="color:#EA0028; font-style;">service client</a>.
           </mj-text>
 
           <mj-text padding-top="30" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
