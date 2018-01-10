@@ -3,7 +3,7 @@
   <mj-head>
 
     <mj-attributes>
-      <mj-text align="center" color="#555" />
+      <mj-text align="center" color="#555" font-family="Arial"/>
       <mj-container background-color="#fff" />
       <mj-section background-color="#fff" />
     </mj-attributes>
@@ -15,7 +15,42 @@
       <mj-section padding-top="10">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Merci pour votre commande.
+          </mj-text>
+
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column>
+
           <mj-image href="https://www.lapeyre.fr/" width="600" src="img/confirmation-de-paiement/banner.png" padding="0" />
 
         </mj-column>
@@ -25,15 +60,15 @@
       <mj-section padding="20" padding-bottom="30">
         <mj-column>
           <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Bonjour Prénom Nom,
+            Bonjour Prénom,
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous venons de recevoir la validation de votre paiement pour votre commande référence WEB000000 effectuée le 00/00/2017, pour un montant total de 0 000,00 € TTC.
+            Nous vous confirmons l'enregistrement de votre commande F9054047000 du XX/XX/XXXX, pour un montant total de 0 000,00 € TTC.
           </mj-text>
           <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
             Vous recevrez dans les prochaines minutes un autre email attestant de la bonne prise en compte de votre commande par le magasin.
           </mj-text>
-                    <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="right">
+                    <mj-text padding-top="50" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe Lapeyre.
 
           </mj-text>
@@ -69,7 +104,7 @@
       <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
         <mj-column>
           <mj-text padding-top="30" padding-bottom="0" font-size="13" color="#404040" align="center">
-            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service client.</a> 
+            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="https://www.lapeyre.fr/contact?formName=contactServiceClient" style="color:#EA0028; font-style;">service client</a>. 
           </mj-text>
           <mj-text padding-top="30" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
             LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
