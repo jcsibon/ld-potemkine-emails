@@ -3,7 +3,7 @@
   <mj-head>
 
     <mj-attributes>
-      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-text align="center" color="#555" font-family="Arial"/>
       <mj-container background-color="#fff" />
       <mj-section background-color="#fff" />
     </mj-attributes>
@@ -12,21 +12,49 @@
 
   <mj-body>
     <mj-container>
-
       <mj-section padding-top="10">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/" width="600" src="img/header.png" padding="0" />
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Finalisez votre commande en quelques clics.
+          </mj-text>
+
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column>
           <mj-image href="https://www.lapeyre.fr/" width="600" src="img/relance-de-panier-abandonne/banner.png" padding="0" />
 
         </mj-column>
 
       </mj-section>
-
-
-
-
-
 
       <mj-section padding="30" padding-top="20">
         <mj-column>
@@ -152,7 +180,10 @@
 
       <mj-section padding="20" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
         <mj-column>
-          <mj-text padding-top="0" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+          <mj-text padding-top="30" padding-bottom="0" font-size="13" color="#404040" align="center">
+            Ce message a été généré automatiquement, merci de ne pas y répondre. Pour toute question, n'hésitez pas à contacter notre <a href="https://www.lapeyre.fr/contact?formName=contactServiceClient" style="color:#EA0028; font-style;">service client</a>. 
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
             LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
             pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
             vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations.
