@@ -15,6 +15,9 @@
       <mj-section padding-top="10">
         <mj-column>
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Votre commande est disponible.
+          </mj-text>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
             Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
         </mj-column>
@@ -58,7 +61,7 @@
             Bonjour Jennifer,
           </mj-text>
           
-          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
+          <mj-text padding-top="40" padding-bottom="0" font-size="20" color="#404040" align="left">
             Votre commande N°XXXXXXXXX est prête. Vous pouvez dès à présent venir la retirer dans votre magasin <b>BORDEAUX MERIGNAC</b>, en vous munissant de votre bon de commande et d'une pièce d'identité.  
           </mj-text>
          <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
@@ -73,10 +76,10 @@
           </mj-button>          
      
                     <mj-text padding-top="35" padding-bottom="0" font-size="20" color="#404040" align="left">
-            Nous vous remercions de votre confiance et nous serons heureux de vous acceullir dans <a href="https://www.lapeyre.fr/nosmagasins" style="color:#EA0028; font-style:italic;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">Lapeyre.fr</a>.
+            Nous vous remercions de votre confiance et nous serons heureux de vous acceullir dans <a href="https://www.lapeyre.fr/tous-les-magasins" style="color:#EA0028; font-style:italic;">nos magasins</a> ou sur <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">Lapeyre.fr</a>.
           </mj-text>
           
-          <mj-text padding-top="35" padding-bottom="0" font-size="20" color="#404040" align="right">
+          <mj-text padding-top="40" padding-bottom="0" font-size="20" color="#404040" align="right">
             L'équipe Lapeyre.
 
           </mj-text>
