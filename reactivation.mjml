@@ -74,23 +74,6 @@
           <mj-image width="600" src="img/reactivation/illu.jpg" padding="0" />
 
         </mj-column>
-
-      </mj-section>
-      
-			<mj-section padding="30" padding-top="20" background-color="#F8F8F8">
-        <mj-column>
-          <mj-text padding-top="50" padding-bottom="35px" font-size="20" color="#404040" align="center">
-            Alors, convaincu ? 
-          </mj-text>
-          <mj-button href="#" font-family="Arial" background-color="#AA192D" color="white" font-size="14px" height="38px">
-            OUI, je continue à recevoir les actualités Lapeyre
-          </mj-button>
-          <mj-button href="#" font-family="Arial" background-color="#9B9B9B" color="white" height="38px">
-            NON, je ne veux plus recevoir d’emails de Lapeyre
-
-          </mj-button>
-        
-        </mj-column>
       </mj-section>
         
       <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
