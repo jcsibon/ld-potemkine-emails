@@ -1,0 +1,286 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="https://www.lapeyre.fr/" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image width="101" src="img/espace.png" padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column>
+
+          <mj-image width="600" src="img/180220-invitation/banner.jpg" padding="0" />
+
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="30">
+        <mj-column>
+          <mj-text padding="25" padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Bonjour Jennifer,
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Le SAVOIR BIEN FAIRE c’est avant tout :
+          </mj-text>
+          <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
+            proposer des produits d’une qualité irréprochable.
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Suite à votre achat chez <a href="#" style="color:#FF0014; ">Lapeyre Amiens</a>, nous aimerions connaître votre avis sur le produit que vous venez d’acheter afin d’apporter des informations essentielles à nos futurs acheteurs. Les internautes
+            accordent une grande importance aux témoignages des clients dans le choix de leurs produits.
+          </mj-text>
+          <mj-text padding-top="30" padding-bottom="0" font-size="20" color="#404040" align="left">
+            Vos notes et commentaires sont précieux !
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding-top="0">
+        <mj-column>
+
+          <mj-image width="374" src="img/180220-invitation/title.png" padding="0" />
+
+        </mj-column>
+
+      </mj-section>
+      <mj-wrapper padding="0 30px">
+
+        <mj-section padding="35" padding-top="30" padding-bottom="20" border-top="1px dashed #EA0028" border-left="1px dashed #EA0028" border-right="1px dashed #EA0028">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="28" src="img/180220-invitation/icon1.png" padding="0" padding-top="8" align="left" />
+            </mj-column>
+
+            <mj-column width="90%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                Date de votre commande
+              </mj-text>
+              <mj-text padding="0" font-size="16" color="#EA0028" padding-left="10" align="left">
+                29/08/2017
+              </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="35" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-divider padding="0" padding-top="0" border-width="1px" border-style="solid" border-color="#D9D9D9" />
+          </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="35" padding-top="30" padding-bottom="20" border-left="1px dashed #EA0028" border-right="1px dashed #EA0028">
+          <mj-group>
+            <mj-column width="10%">
+              <mj-image width="28" src="img/180220-invitation/icon2.png" padding="0" padding-top="7" align="left" />
+            </mj-column>
+
+            <mj-column width="90%">
+              <mj-text padding="0" font-size="16" padding-left="10" color="#404040" align="left">
+                Date de votre commande
+              </mj-text>
+              <mj-text padding="0" font-size="16" color="#EA0028" padding-left="10" align="left">
+                Cloison suspendue PARENTHESE sur-mesure
+
+              </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="35px" padding-top="20" padding-bottom="20" background-color="#AA192D">
+          <mj-column>
+            <mj-image width="117" src="img/180220-invitation/avis-verifies.png" padding="0" padding-bottom="0" padding-top="7" align="center" />
+            <mj-text padding="0" font-size="24" line-height="30px" color="#fff" padding-left="10" align="center">
+              Quelle note donneriez-vous aux produits que vous venez d’acheter chez Lapeyre ?
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="10px" padding-top="15" padding-bottom="10" background-color="#AA192D">
+          <mj-group>
+            
+            <mj-column width="20%">
+            </mj-column>
+            <mj-column width="18%">
+              <mj-text padding="0" padding-top="0" font-size="12" line-height="14px" color="#fff" padding-left="10" align="left">
+                Très mauvais
+              </mj-text>
+            </mj-column>
+            <mj-column width="3%">
+            </mj-column>
+
+            <mj-column width="18%">
+              <mj-text padding="0" padding-top="0" font-size="12" line-height="14px" color="#fff" padding-left="10" align="center">
+                Moyen
+              </mj-text>
+            </mj-column>
+            <mj-column width="3%">
+            </mj-column>
+
+            <mj-column width="18%">
+              <mj-text padding="0" padding-top="0" font-size="12" line-height="14px" color="#fff" padding-left="10" align="right">
+                Très bien
+              </mj-text>
+            </mj-column>
+            <mj-column width="20%">
+             
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="10px" padding-top="0" padding-bottom="30" background-color="#AA192D">
+          <mj-group>
+          <mj-column width="20%">
+            </mj-column>
+
+            
+          <mj-column width="12%">
+            <mj-image align="center" href="#" width="44" src="img/180220-invitation/avis1.png" padding="0" padding-bottom="0" />
+          </mj-column>
+
+          <mj-column width="12%">
+            <mj-image align="center" href="#" width="44" src="img/180220-invitation/avis2.png" padding="0" padding-bottom="0" />
+          </mj-column>
+
+          <mj-column width="12%">
+            <mj-image align="center" href="#" width="44" src="img/180220-invitation/avis3.png" padding="0" padding-bottom="0" />
+          </mj-column>
+
+          <mj-column width="12%">
+            <mj-image align="center" href="#" width="44" src="img/180220-invitation/avis4.png" padding="0" padding-bottom="0" />
+          </mj-column>
+
+          <mj-column width="12%">
+            <mj-image align="center" href="#" width="44" src="img/180220-invitation/avis5.png" padding="0" padding-bottom="0" />
+          </mj-column>
+            
+            <mj-column width="20%">
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <mj-section padding="35px" padding-top="15" padding-bottom="30" background-color="#AA192D">
+          <mj-column width="28%">
+
+          </mj-column>
+
+          <mj-column width="44%">
+            <mj-button href="#" width="100%" border-radius="3px" background-color="#fff" height="45" inner-padding="10" color="#AA192D">
+              Je donne mon avis
+            </mj-button>
+          </mj-column>
+
+          <mj-column width="28%">
+            <mj-text padding="0" padding-top="0" font-size="16" line-height="18px" color="#fff" padding-left="10" align="center"><img src="img/180220-invitation/icon3.png" style="width:27px; display:inline-block; padding-right:5px">
+              <p style="display:inline-block;">moins de<br/> 1 minute</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="35">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" font-size="20" color="#404040" align="left">
+              Merci d'avance pour votre participation !
+
+            </mj-text>
+            <mj-text padding-top="20" padding-bottom="0" font-size="20" color="#404040" align="left">
+              L’équipe <a href="#" style="color:#F58E16; font-style:italic;">Avis-Verifies</a>.
+
+
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding-top="15"></mj-section>
+      </mj-wrapper>
+      <mj-section padding-top="70" padding-bottom="60" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://www.facebook.com/Lapeyre/" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.pinterest.fr/lapeyre/" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+
+          <mj-text padding-top="20" padding-bottom="0" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            Prestataire d'évaluations clients indépendant, transparent et certifié NF Service
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            Votre avis sera rendu public sur l'attestation du site concerné. Seul votre prénom sera affiché avec la première lettre de votre nom. Pour plus de renseignements vous pouvez consulter nos
+            <a href="#" style="color:#F28D17;">CGU</a>.
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="40" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
+            pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
+            vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations.
+            Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="30" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="#" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
