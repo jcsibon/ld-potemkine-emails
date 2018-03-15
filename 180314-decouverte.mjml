@@ -1,0 +1,292 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left"
+            />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="101" src="img/espace.png" padding="0" padding-top="16px"
+              padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/c/magazine/autour-de-lapeyre/le-savoir-bien-faire?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="600" src="img/180314-decouverte/banner.png" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="0 50px">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="50">
+          <mj-column>
+
+            <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">
+              Maintenant que vous nous avez rejoint, laissez- vous porter par le SAVOIR BIEN FAIRE. Le SAVOIR BIEN FAIRE, c’est une expertise acquise au fil du temps, mais pas seulement. C’est aussi une combinaison d’engagements qui nous sont chers.
+            </mj-text>
+
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="20" padding-right="20" background-color="#aa192d">
+        <mj-column width="20%">
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="100" line-height="110px" font-weight="700" color="#e41a28" align="center">
+            1.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="80" font-size="22" font-weight="700" color="#fff" align="left" text-transform="uppercase">
+            Une valorisation de la fabrication française.
+
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="18" font-weight="400" color="#fff" align="left">
+            Esthétiques, pratiques, design et durables… Nos produits sont étudiés pour répondre à vos besoins tout en respectant les tendances et normes actuelles.
+          </mj-text>
+          <mj-button href="https://www.lapeyre.fr/c/magazine/autour-de-lapeyre/usines?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" background-color="#e41a28" color="white" font-size="14px" height="45px" padding-top="25px" padding-bottom="5px"
+            padding-left="0" align="left">
+            Découvrir nos usines
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-image href="" width="600" src="img/180314-decouverte/01.png" padding="0" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="20" padding-right="20">
+        <mj-column width="20%">
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="100" line-height="110px" font-weight="700" color="#aa192d" align="center">
+            2.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="80" font-size="22" font-weight="700" color="#aa192d" align="left" text-transform="uppercase">
+            Des produits dans l’air du temps.
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="18" font-weight="400" color="#404040" align="left">
+            Esthétiques, pratiques, design et durables… Nos produits sont étudiés pour répondre à vos besoins tout en respectant les tendances et normes actuelles.
+          </mj-text>
+          <mj-button href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="25px" padding-bottom="5px"
+            padding-left="0" align="left">
+            Découvrir nos univers
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-image href="" width="600" src="img/180314-decouverte/02.png" padding="0" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="20" padding-right="20" background-color="#aa192d">
+        <mj-column width="20%">
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="100" line-height="110px" font-weight="700" color="#e41a28" align="center">
+            3.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="80" font-size="22" font-weight="700" color="#fff" align="left" text-transform="uppercase">
+            Un suivi appliqué de votre projet.
+
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="18" font-weight="400" color="#fff" align="left">
+            De sa conception à sa réalisation, nos experts vous guident pas à pas. Conseils aménagements et recom- mandations techniques, ils mettent toutes leurs compétences en œuvre pour faire de vos idées une réalité.
+          </mj-text>
+          <mj-button href="https://www.lapeyre.fr/c/services/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" background-color="#e41a28" color="white" font-size="14px" height="45px" padding-top="25px" padding-bottom="5px"
+            padding-left="0" align="left">
+            Découvrir nos services
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-image href="" width="600" src="img/180314-decouverte/03.png" padding="0" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="20" padding-right="20">
+        <mj-column width="20%">
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="100" line-height="110px" font-weight="700" color="#aa192d" align="center">
+            4.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="80" font-size="22" font-weight="700" color="#aa192d" align="left" text-transform="uppercase">
+            Une installation sur mesure.
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="18" font-weight="400" color="#404040" align="left">
+            Nos experts gèrent méticuleusement les différentes étapes de vos travaux. De la prise de mesures à la pose, ils se chargent de tout pour vous assurer un résultat sans faille dans tous vos espaces.
+          </mj-text>
+          <mj-button href="https://www.lapeyre.fr/c/services/installation-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="25px" padding-bottom="5px"
+            padding-left="0" align="left">
+            Découvrir la pose
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-image href="" width="600" src="img/180314-decouverte/04.png" padding="0" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="20" padding-right="20" background-color="#aa192d">
+        <mj-column width="20%">
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="100" line-height="110px" font-weight="700" color="#e41a28" align="center">
+            5.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="80" font-size="22" font-weight="700" color="#fff" align="left" text-transform="uppercase">
+            Un gage d’excellence.
+
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="18" font-weight="400" color="#fff" align="left">
+            Nous nous engageons à vous offrir des produits qui dureront dans le temps. Parce que nous sommes sûrs de la qualité de nos produits et que nous en fabriquons l’essentiel, nous les garantissons jusqu’à 25 ans.
+          </mj-text>
+          <mj-button href="https://www.lapeyre.fr/c/engagements/eco-responsabilite-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" background-color="#e41a28" color="white" font-size="14px" height="45px" padding-top="25px" padding-bottom="5px"
+            padding-left="0" align="left">
+            Découvrir notre garantie
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-image href="" width="600" src="img/180314-decouverte/05.png" padding="0" padding-bottom="20" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="20" padding-right="20">
+        <mj-column width="20%">
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="100" line-height="110px" font-weight="700" color="#aa192d" align="center">
+            6.
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="80%">
+          <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="80" font-size="22" font-weight="700" color="#aa192d" align="left" text-transform="uppercase">
+            Des produits au meilleur prix.
+          </mj-text>
+
+          <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="18" font-weight="400" color="#404040" align="left">
+            De la qualité ? Oui, mais toujours à des prix mesurés. Pour que notre SAVOIR BIEN FAIRE profite au plus grand nombre, nous appliquons une politique de prix attractifs.
+          </mj-text>
+          <mj-button href="https://www.lapeyre.fr/PromotionSearchDisplay?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="25px" padding-bottom="5px"
+            padding-left="0" align="left">
+            Découvrir nos promotions
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+        <mj-column>
+          <mj-image href="" width="600" src="img/180314-decouverte/06.png" padding="0" padding-bottom="0" />
+        </mj-column>
+      </mj-section>
+      
+      <mj-wrapper padding="0 50px">
+      <mj-section padding="0" padding-top="20" padding-bottom="50">
+          <mj-column>
+            <mj-text padding-top="1" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="center">
+              Ne laissez pas passer une occasion d’adopter
+un travail bien fait ; à bientôt sur <a href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" style="color:#ea0028; text-decoration:none; font-style: italic;">www.lapeyre.fr</a> ou en magasin !
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" width="21" src="img/twitter.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos
+            services pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du – janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant.
+            Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de
+            vos informations. Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=branding&utm_term=accroche&utm_content=decouverte_sbf" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
