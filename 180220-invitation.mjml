@@ -196,21 +196,9 @@
           </mj-group>
         </mj-section>
 
-        <mj-section padding="35px" padding-top="15" padding-bottom="30" background-color="#AA192D">
-          <mj-column width="28%">
-
-          </mj-column>
-
-          <mj-column width="44%">
-            <mj-button href="#" width="100%" border-radius="3px" background-color="#fff" height="45" inner-padding="10" color="#AA192D">
-              Je donne mon avis
-            </mj-button>
-          </mj-column>
-
-          <mj-column width="28%">
-            <mj-text padding="0" padding-top="0" font-size="16" line-height="18px" color="#fff" padding-left="10" align="center"><img src="img/180220-invitation/icon3.png" style="width:27px; display:inline-block; padding-right:5px">
-              <p style="display:inline-block;">moins de<br/> 1 minute</p>
-            </mj-text>
+        <mj-section padding="0px" padding-top="5" padding-bottom="30" background-color="#AA192D">
+          <mj-column width="100%">
+<mj-image align="center" href="#" width="538px" src="img/180220-invitation/button.png" padding="0" padding-bottom="0" />
           </mj-column>
         </mj-section>
 
