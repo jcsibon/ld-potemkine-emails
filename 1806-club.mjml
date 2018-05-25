@@ -1,0 +1,304 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
+            Vos offres du mois de Juin.
+          </mj-text>
+
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="95" src="img/magasin.png" padding="0" padding-top="16px"
+              padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="101" src="img/espace.png"
+              padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/c/h/promotions?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="600" src="img/1806-club/banner.jpg"
+            padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="0 50px">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="50">
+          <mj-column>
+            <mj-text padding-top="40" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">La carte Club vous donne accès à de nombreux avantages exclusifs pour profiter du SAVOIR BIEN FAIRE Lapeyre et réaliser tous vos projets.
+            </mj-text>
+
+            <mj-text padding-top="20" padding-bottom="10" padding-left="0" padding-right="0" font-size="20" font-weight="600" color="#404040" align="left">Ce mois-ci, profitez des offres suivantes :
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/SearchDisplay?storeId=10101&catalogId=10151&langId=-2&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=24&searchTerm=Porte%20symphonie&utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique#facet:24107,24115&facetContent:&productBeginIndex:0&contentBeginIndex:0&orderBy:&orderByContent:&pageView:grid&pageViewContent:&minPrice:&maxPrice:&pageSize:&" width="237" src="img/1806-club/illu01.png"
+              padding="0" padding-bottom="20" />
+          </mj-column>
+
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/stores-banne-CCN0082?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/illu02.png" padding="0"
+              padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/SearchDisplay?storeId=10101&catalogId=10151&langId=-2&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=24&searchTerm=colle%20weber&utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/illu03.png"
+              padding="0" padding-bottom="20" />
+          </mj-column>
+
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/lambris-pvc-CCN0152?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/illu04.png" padding="0"
+              padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <mj-wrapper padding="0 50px" background-color="#f8f8f8">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="50" background-color="#f8f8f8">
+          <mj-column>
+            <mj-text padding-top="20" padding-bottom="10" padding-left="0" padding-right="0" font-size="20" font-weight="600" color="#404040" align="left">Découvrez également nos offres du moment !
+
+            </mj-text>
+
+            <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">Du 30 mai au 25 juin, profitez de la Fête des Prix bien faits. Cuisines, Salles de bains, Menuiseries :
+des remises et des prix barrés vous attendent dans tous nos univers.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/bain-CCU0002?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="498" src="img/1806-club/01.jpg" padding="0"
+              padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/fenetres-CCU0003?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/02.jpg"
+              padding="0" padding-bottom="20" />
+          </mj-column>
+
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/aluminium-CCN688050?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/03.jpg"
+              padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/amenagements-placard-CCN0061?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/04.jpg"
+              padding="0" padding-bottom="20" />
+          </mj-column>
+
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/escaliers-CCU0006?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/05.jpg"
+              padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+        <mj-section padding="0" padding-top="0" padding-bottom="0" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/cuisine-CCU0001?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="498" src="img/1806-club/06.jpg"
+              padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="0" padding-bottom="0" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/SearchDisplay?storeId=10101&catalogId=10151&langId=-2&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=24&searchTerm=balustrades%20obeissante%20inoline%20inoxia&utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/07.jpg"
+              padding="0" padding-bottom="20" />
+          </mj-column>
+
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/exterieur-jardin-CCU0008?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="237" src="img/1806-club/08.jpg"
+              padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="0" padding-bottom="40" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/SearchDisplay?storeId=10101&catalogId=10151&langId=-2&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=24&searchTerm=carrelage%20aspect%20bois%20m2&utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="498" src="img/1806-club/09.jpg"
+              padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+
+      <mj-wrapper padding="0 30px">
+        <mj-section padding="0" padding-top="50" padding-bottom="40">
+          <mj-column>
+            <mj-image width="387" src="img/carte-club-janv/avantages.png" padding="0" padding-bottom="20" />
+
+            <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="center">La carte Club vous donne accès à une multitude 
+d’offres exclusives et services privilégiés pendant <span style="color:#ea0028;font-weight:600;text-decoration:underline;">3 ans</span>.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="50" padding-bottom="0">
+          <mj-column>
+            <mj-image width="243" src="img/carte-club-janv/offre1.png"
+              padding="0" padding-bottom="40" padding-right="10" align="left" />
+          </mj-column>
+          <mj-column>
+            <mj-image width="236" src="img/carte-club-janv/offre2.png"
+              padding="0" padding-bottom="40" padding-right="10" align="left" />
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="40">
+          <mj-column>
+            <mj-image width="226" src="img/carte-club-janv/offre3.png"
+              padding="0" padding-bottom="40" padding-right="10" align="left" />
+          </mj-column>
+          <mj-column>
+            <mj-image width="260" src="img/carte-club-janv/offre4.png"
+              padding="0" padding-bottom="40" padding-right="10" align="left" />
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="20" padding-bottom="0" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+           *La remise aux professionnels est non cumulable avec les remises de l’opération «La fête des prix bien faits» du 30/05/2018 au 25/06/2018. Offres non cumulables avec d’autres remises, commandes ou promotions en cours. Les points rouges et séries limitées Lapeyre ne bénéficient d’aucune remise.
+
+          </mj-text>
+          
+          <mj-text padding-top="20" padding-bottom="0" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+** Éco-mobilier : sous l’impulsion de la loi Grenelle II du 12 juillet 2010, une nouvelle lière de collecte et de recyclage des déchets d’ameublement est mise en place depuis le 1er mai 2013. La vocation de cette lière est de progresser en matière de collecte, de recyclage et réutilisation du mobilier, et de donner la responsabilité de la gestion des déchets d’ameublement aux entreprises concernées, fabricants et distributeurs, a n qu’elles intègrent dans les phases de conception et de fabrication l’impact écologique de la n de vie des produits qu’elles mettent sur le marché. ** Éco-participation : montant correspondant au coût d’élimination des Déchets des Équipements Électriques et Électroniques (DEEE - décret n° 2005-829 tel que codi é dans le code de l’environnement).  
+          </mj-text>
+        
+          <mj-text padding-top="10" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            (1) Voir modalités en magasin. Offre valable pour les porteurs de la Carte Club Lapeyre. Non cumulable avec toute autre promotion en cours.
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            (2) Offre valable sur vos achats de produits de Salle de Bains (pages 139 à 279 du catalogue Lapeyre Cuisines et Salles de Bains en vigueur) et vos commandes de prestations d’installation effectués entre le 30 mai et le 25 juin 2018. Pour toute commande de prestation d’installation, les produits devront être achetés en magasin. Retrouvez en magasin toutes les conditions relatives à l’installation. Offre limitée à une seule commande par foyer (même adresse, même nom) pendant la durée de la promotion. Hors points rouges, séries limitées, prestations atelier, livraison, et commandes en cours passées avant le 30 mai. Offre non cumulable avec la carte Club Lapeyre, la remise aux professionnels et toute autre promotion en cours.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+           (3) Hors poignées. -10% pour une fenêtre, -15% entre 2 et 4 fenêtres, -25% à partir de 5 fenêtres. Produits sur mesure concernés : fenêtre, abattant, porte-fenêtre, baie coulissante PVC, baie coulissante alu. Crédit d’impôt sous réserve des conditions d’éligibilité et dans la limite d’un plafond fixé par la loi (voir le site www.economie.gouv.fr).
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            (4) Offre valable sur toutes les portes d’entrée aluminium***, quelque soit le type de pose. Inclus : dépose et mise à la décharge de l’existant, livraison. Hors prestations atelier et travaux préparatoires. Si des travaux préparatoires sont nécessaires pour réaliser la pose, le prix sera augmenté du montant des travaux préparatoires sur devis et après visite technique. Offre non valable sur les commandes en cours. Offre non cumulable avec la remise aux professionnels. 
+
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            (5) Hors escaliers hélicoïdaux, spiraux, solutions gain de place, échelles escamotables et points rouges. Nos escaliers et balustrades sont destinés exclusivement à une utilisation en intérieur. Ils ne sont pas adaptés à une utilisation par des personnes à mobilité réduite (PMR), ni dans des locaux destinés à accueillir du public, ni dans les parties communes de résidences collectives.
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+(6) Offre valable du 30 mai au 25 juin 2018 pour l’achat de meubles de cuisine (hors meubles Ozon et plans de travail) d’un montant minimum de 3000€ TTC (hors éco-mobilier).La pose à 1€ comprend uniquement la pose des meubles, des plans de travail, de l’électroménager, de l’évier et de la robinetterie, le tout figurant sur un seul bon de commande. Toutes les autres prestations, telles que la livraison et le service atelier, ainsi que la pose de tout autre élément notamment crédences, étagères, jambages, éclairages, accessoires... sont exclues de l’offre. Offre non cumulable avec la remise aux professionnels, avec les avantages de la Carte Club Lapeyre et toute autre promotion en cours. Offre valable uniquement en magasin et en France métropolitaine.  
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+(7) Hors-bord de mer ou piscine. Main courante en bois (intérieur uniquement) ou en inox.
+
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+(8) Hors points rouges.
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+(9) Offre non cumulable avec d’autres promotions ou remises en cours. 
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 - Siège social : Les Miroirs - 18 avenue d'Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite " informatique et libertés " du 6 janvier 1978, vous disposez d'un droit d'accès de rectification et de suppression des données vous concernant. Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations. Pour exercer vos droits, merci d'envoyer un e-mail à service.client@lapeyre.fr.
+ <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=club_juin&utm_term=desabo&utm_content=generique" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
