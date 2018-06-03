@@ -1,0 +1,205 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="0" font-size="12" color="#404040">
+Découvrez notre sélection de petits prix dédiée aux professionnels.
+          </mj-text>
+
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+        
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="95" src="img/magasin.png" padding="0" padding-top="16px"
+              padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="183" src="img/logo-pro.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="101" src="img/espace.png"
+              padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?nh=1&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="600" src="img/180604-pro-prix-cuisine-1/banner.png"
+            padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="0 50px">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="50">
+          <mj-column>
+            
+            <mj-text padding-top="20" padding-bottom="10" padding-left="0" padding-right="0" font-size="20" font-weight="600" color="#404040" align="left">Bonjour,
+            </mj-text>
+            <mj-text padding-top="10" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">Ne manquez pas notre sélection du mois ! 
+Dédiée aux professionnels du bâtiment, elle comprend des prix spéciaux pour vous aider dans votre activité.
+            </mj-text>
+            <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">Une occasion à saisir pour profiter de notre SAVOIR BIEN FAIRE à petits prix.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/modele-ozon-CCN641838?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="498" src="img/180604-pro-prix-cuisine-1/01.png" padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="0" padding-bottom="0">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/fenetre-pria-pvc-personnalisable-FPC815896?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="237" src="img/180604-pro-prix-cuisine-1/02.png"
+              padding="0" padding-bottom="20" />
+          </mj-column>
+
+          <mj-column>
+            <mj-image href="#" width="237" src="img/180604-pro-prix-cuisine-1/03.png" padding="0"
+              padding-bottom="10" />
+
+          </mj-column>
+        </mj-section>
+
+        <mj-section padding="0" padding-top="25" padding-bottom="0">
+          <mj-column>
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="498" src="img/180604-pro-prix-cuisine-1/04.png"
+              padding="0" padding-bottom="20" />
+
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="20" padding-bottom="0">
+          <mj-column>
+            
+            <mj-text padding-top="10" padding-bottom="40" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="center">Découvrez vos prix pros
+sur votre espace client
+<a href="https://www.lapeyre.fr/LogonForm?myAcctMain=1&catalogId=10151&langId=-2&storeId=10101&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" style="color:#ea0028;">en ligne</a> ou en magasin. 
+            </mj-text>
+       
+        </mj-wrapper>
+        
+        <mj-section padding="0 50px" padding-top="30" padding-bottom="0" background-color="#f8f8f8">
+          <mj-column>
+            <mj-image align="center" padding="0" padding-top="20" padding-bottom="50" />
+            
+            <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?nh=1&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="497" src="img/180604-pro-prix-cuisine-1/icon01.png" align="left" padding="0" padding-bottom="40" />
+            
+            <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?nh=1&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="406" src="img/180604-pro-prix-cuisine-1/icon02.png" align="left" padding="0" padding-bottom="40" />
+            
+            <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?nh=1&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="473" src="img/180604-pro-prix-cuisine-1/icon03.png" align="left" padding="0" padding-bottom="30" />
+
+          </mj-column>
+        </mj-section>
+        
+      
+      <mj-wrapper padding="0 50px">
+        
+        <mj-section padding="0" padding-top="20" padding-bottom="0">
+          <mj-column>
+            
+             <mj-text padding-top="30" padding-bottom="50" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="center">À très bientôt dans notre magasin.
+            </mj-text>
+
+          </mj-column>
+        </mj-section>
+        
+      </mj-wrapper>
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" width="26" src="img/twitter.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            * Prix indiqués nets HT toutes remises pro déduites. Voir conditions en magasin </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            (1) Selon composition type p124 du catalogue.
+
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            (2) Offre valable uniquement en magasin.
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+           	** Offre de déstockage portant sur l’ancienne gamme Classic PVC standard à partir du 02/05, jusqu’à épuisement des stocks. Offre non cumulable avec la remise aux professionnels, avec la carte Club et avec toute autre promotion en cours. Voir produits concernés en magasin. LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € RCS Nanterre 542 020 862 – Siège social : Les Miroirs, 18 avenue d’Alsace, La Défense 3 - 92400 Courbevoie
+
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+           
+LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre  542 020 862 –  Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie.
+Lapeyre vous informe que vos informations sont utilisées par nos services pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du 6 janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations. Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=accroche&utm_content=cluster1" style="color:#EA0028; font-style:italic;">contact@lapeyreproplus.com </a> ou par courrier à l'adresse suivante : Programme de fidélité Lapeyre Pro + - Edenwork - 22 rue Sully - 69006 Lyon.
+.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm_pro&utm_medium=email&utm_campaign=prix_produit1&utm_term=desabo&utm_content=cluster1" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
