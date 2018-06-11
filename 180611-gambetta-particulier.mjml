@@ -18,7 +18,7 @@
             Depuis le 9 juin, le magasin de Gambetta a déménagé.
           </mj-text>
           <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
-            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">en ligne</a>
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">en ligne</a>
           </mj-text>
         </mj-column>
 
@@ -28,20 +28,20 @@
         <mj-group>
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="95" src="img/magasin.png" padding="0" padding-top="16px"
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="95" src="img/magasin.png" padding="0" padding-top="16px"
               padding-left="20" align="left" />
 
           </mj-column>
 
           <mj-column width="60%">
 
-            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="183" src="img/logo.png" padding="0" />
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="183" src="img/logo.png" padding="0" />
 
           </mj-column>
 
           <mj-column width="20%">
 
-            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="101" src="img/espace.png"
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generiqu" width="101" src="img/espace.png"
               padding="0" padding-top="16px" padding-right="20" align="right" />
 
           </mj-column>
@@ -51,7 +51,7 @@
       <mj-section padding-top="0" padding-bottom="0">
         <mj-column>
 
-          <mj-image href="https://www.lapeyre.fr/c/magazine/?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="600" src="img/180611-gambetta-particulier/banner.png"
+          <mj-image href="https://www.lapeyre.fr/c/h/ouverture-aubervilliers?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="600" src="img/180611-gambetta-particulier/banner.png"
             padding="0" />
         </mj-column>
       </mj-section>
@@ -77,7 +77,7 @@ Nous avons le plaisir de vous accueillir à la Porte de la Villette, dans notre 
 
         <mj-section padding="0" padding-top="0" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/c/h/ouverture-aubervilliers?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="600" src="img/180611-gambetta-particulier/illu01.png" padding="0" padding-bottom="20" />
+            <mj-image href="https://www.lapeyre.fr/c/h/ouverture-aubervilliers?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="600" src="img/180611-gambetta-particulier/illu01.png" padding="0" padding-bottom="20" />
 
           </mj-column>
         </mj-section>
@@ -96,7 +96,7 @@ vous adresser aux autres points de vente de proximité :
 Richard Lenoir, Châtelet-Les Halles, Place Clichy, ou encore Lecourbe !
             </mj-text>
             
-            <mj-button href="https://www.lapeyre.fr/c/h/promotions?utm_source=crm&utm_medium=email&utm_campaign=fete_pbf&utm_term=accroche&utm_content=separation_piece1" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="45px" padding-bottom="0">
+            <mj-button href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" background-color="#AA192D" color="white" font-size="14px" height="45px" padding-top="45px" padding-bottom="0">
             J'y vais !
           </mj-button>
 
@@ -105,7 +105,7 @@ Richard Lenoir, Châtelet-Les Halles, Place Clichy, ou encore Lecourbe !
 
         <mj-section padding="0" padding-top="0" padding-bottom="0">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-ile-de-france-porte-de-la-villette?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="540" src="img/180611-gambetta-particulier/illu02.png" padding="0" padding-bottom="40" />
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="540" src="img/180611-gambetta-particulier/illu02.png" padding="0" padding-bottom="40" />
 
           </mj-column>
         </mj-section>
@@ -114,15 +114,15 @@ Richard Lenoir, Châtelet-Les Halles, Place Clichy, ou encore Lecourbe !
 
       <mj-section padding="0" padding-top="10" padding-bottom="0" padding-left="10" padding-right="10" background-color="#fff">
           <mj-column>
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-ile-de-france-porte-de-la-villette?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-01.png" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.lapeyre.fr/c/services/?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-01.png" padding="0" padding-bottom="0" />
 
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-ile-de-france-porte-de-la-villette?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-02.png" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.lapeyre.fr/c/services/le-conseil-a-domicile?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-02.png" padding="0" padding-bottom="0" />
             
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-ile-de-france-porte-de-la-villette?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-03.png" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.lapeyre.fr/c/services/le-service-atelier?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-03.png" padding="0" padding-bottom="0" />
             
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-ile-de-france-porte-de-la-villette?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-04.png" padding="0" padding-bottom="0" />
+            <mj-image href="https://www.lapeyre.fr/c/services/la-livraison-a-domicile?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-04.png" padding="0" padding-bottom="0" />
             
-            <mj-image href="https://www.lapeyre.fr/tous-les-magasins/magasin-lapeyre-ile-de-france-porte-de-la-villette?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-05.png" padding="0" padding-bottom="40" />
+            <mj-image href="https://www.lapeyre.fr/c/services/installation-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="499" src="img/180611-gambetta-particulier/illu03-05.png" padding="0" padding-bottom="40" />
           </mj-column>
         </mj-section>
       
@@ -143,22 +143,22 @@ Richard Lenoir, Châtelet-Les Halles, Place Clichy, ou encore Lecourbe !
 
         <mj-group>
           <mj-column width="20%">
-            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="25" src="img/insta.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="21" src="img/yt.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
           <mj-column width="20%">
-            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" width="21" src="img/twitter.jpg" padding="0" padding-bottom="0"
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" width="21" src="img/twitter.jpg" padding="0" padding-bottom="0"
             />
           </mj-column>
         </mj-group>
@@ -168,11 +168,11 @@ Richard Lenoir, Châtelet-Les Halles, Place Clichy, ou encore Lecourbe !
         <mj-column>
 
           <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre  542 020 862 –  Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie.
-Lapeyre vous informe que vos informations sont utilisées par nos services pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du 6 janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations. Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+Lapeyre vous informe que vos informations sont utilisées par nos services pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du 6 janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations. Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
           </mj-text>
 
           <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
-            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=reouverture_aubervilliers18&utm_term=accroche&utm_content=generique" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=fermeture_gambetta&utm_term=desabo&utm_content=generique" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
           </mj-text>
         </mj-column>
       </mj-section>
