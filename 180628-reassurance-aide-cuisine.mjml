@@ -1,0 +1,184 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" style="color:#EA0028; font-style:italic;" alias="">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="95" src="img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left"/>
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="183" src="img/logo.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="101" src="img/espace.png" padding="0" padding-top="16px"
+              padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/cuisine-CCU0001?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="600" src="img/180628-reassurance-aide-cuisine/banner.png" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="10 50px" padding-bottom="40">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="0">
+          <mj-column>
+            <mj-text padding-top="10" padding-bottom="30" padding-left="0" padding-right="0" font-size="20" font-weight="700" color="#404040" align="left">Cher Prénom Nom,
+
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">
+             Vous avez récemment effectué un devis en magasin pour la réalisation de votre projet.
+            </mj-text>
+            <mj-text padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">
+             Êtes-vous toujours à la recherche de la cuisine de
+vos rêves ? 
+            </mj-text>
+
+          </mj-column>
+        </mj-section>
+        
+        </mj-wrapper>
+      
+      <mj-wrapper padding="0 50px">
+        
+        <mj-section padding="0" padding-top="30" padding-bottom="0" border="1px dashed #ea0028" border-bottom="none">
+          <mj-column width="100%">
+            
+           <mj-image width="58" src="img/180628-reassurance-aide-cuisine/picto.png" padding="0" padding-top="0" />
+            
+            <mj-text padding="35" font-size="18" font-weight="700" line-height="26px" color="#404040" align="left">
+             Faire appel au SAVOIR BIEN FAIRE de Lapeyre pour l’achat de votre cuisine, c’est le gage d’obtenir un produit qualitatif, qui répondra à vos besoins et attentes au meilleur prix. 
+
+            </mj-text>
+            
+          </mj-column>
+        </mj-section>
+        
+<mj-section padding="0" padding-top="10" padding-bottom="10" background-color="#aa192d">
+          <mj-column width="100%">
+            
+            <mj-text padding="35" padding-top="25" font-size="18" line-height="26px" font-weight="400" color="#fff" align="left">
+             Toutes nos cuisines proviennent de nos usines en France et sont garanties jusqu'à 25 ans.
+Vous pouvez choisir parmi de nombreux modèles, et profiter d’un grand choix de finitions de meubles, associées à une large palette de plans de travail (stratifié, compact, quartz…)
+            </mj-text>
+            
+            <mj-text padding="35" padding-top="0" font-size="18" line-height="26px" font-weight="400" color="#fff" align="left">
+             Nous vous proposons des réalisations 100% clé en main avec électroménager, accessoires de rangements, revêtements murs et sols ou encore éclairages.
+Vous pouvez aussi opter pour des produits d'aménagement complémentaires comme les verrières, qui viennent s’intégrer à merveille à votre cuisine.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+       <mj-section padding="0" padding-top="50" padding-bottom="0">
+          <mj-column width="100%">
+            
+            <mj-image width="386" src="img/180628-reassurance-aide-cuisine/title.png" padding="0" padding-top="0" />
+            <mj-image width="514" src="img/180628-reassurance-aide-cuisine/block-rdv.jpg" padding="0" padding-top="40" />
+            <mj-button href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" background-color="#AA192D" color="white" font-size="14px" height="45px" font-weight="500" padding-top="60px" padding-bottom="45px">
+            Découvrir la carte des magasins
+          </mj-button>
+          </mj-column>
+        </mj-section>
+        
+      </mj-wrapper>
+      
+      <mj-wrapper background-color="#F8F8F8">
+
+        <mj-section padding="0" padding-top="50" padding-bottom="0" background-color="#F8F8F8">
+          <mj-column width="100%">
+            
+            <mj-image href="https://www.lapeyre.fr/c/services/?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="499" src="img/180628-reassurance-aide-cuisine/service-1.png" padding="0" padding-top="0" />
+            
+           <mj-image href="https://www.lapeyre.fr/c/services/le-conseil-a-domicile?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="499" src="img/180628-reassurance-aide-cuisine/service-2.png" padding="0" padding-top="0" />
+            
+            <mj-image href="https://www.lapeyre.fr/c/services/le-service-atelier?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="499" src="img/180628-reassurance-aide-cuisine/service-3.png" padding="0" padding-top="0" />
+            
+            <mj-image href="https://www.lapeyre.fr/c/services/la-livraison-a-domicile?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="499" src="img/180628-reassurance-aide-cuisine/service-4.png" padding="0" padding-top="0" />
+            
+            <mj-image href="https://www.lapeyre.fr/c/services/installation-lapeyre?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="499" src="img/180628-reassurance-aide-cuisine/service-5.png" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+
+
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="12" src="img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="25" src="img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="22" src="img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" width="21" src="img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" padding="0" padding-bottom="0" width="26" src="img/twitter.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="30" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            *Voir conditions sur <a href="https://www.lapeyre.fr/c/h/conditions-promotion?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" style="color:#EA0028; font-style:italic;" alias="">lapeyre.fr</a>.
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre 542 020 862 – Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie. Lapeyre vous informe que vos informations sont utilisées par nos services
+            pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du 6 janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi,
+            vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations.
+            Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=accroche&utm_content=cuisine" style="color:#EA0028; font-style:italic;" alias="">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=reassurance_aide&utm_term=desabo&utm_content=cuisine" style="color:#EA0028; font-style:italic;" alias="">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
