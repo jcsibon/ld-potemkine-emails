@@ -1,0 +1,142 @@
+
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+<mj-text padding-top="0" padding-bottom="5" font-size="12" color="#404040" line-height="12px">
+            Votre offre du 19/09/2018 au 24/09/2018.
+          </mj-text>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="12px">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" style="color:#EA0028; font-style:italic;">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="95" src="../img/magasin.png" padding="0"
+              padding-top="16px" padding-left="20" align="left" />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="183" src="../img/logo.png"
+              padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="101" src="../img/espace.png"
+              padding="0" padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="600" src="../img/180725-wei/banner.jpg" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="0 50px">
+        
+        <mj-section padding-top="30" padding-bottom="30">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="10" padding-left="0" padding-right="0" font-size="18" font-weight="600" color="#404040" align="left">Tenez-vous prêt !
+
+            </mj-text>
+            <mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-size="20" line-height="24px" font-weight="400" color="#404040" align="left"><span style="font-weight:700;">Du 19 au 24 septembre 2018</span>, Lapeyre vous fait profiter de -20% sur votre article préféré avec le code promo   <span style="font-weight:700; color:#fff; background-color:#ea0028; padding:2px 7px ">IMBATTABLE</span>.
+            </mj-text>
+            
+            <mj-button href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" background-color="#AA192D" color="white" font-size="14px" height="25px" padding="0px"
+              padding-top="30">
+              Voir l’offre sur notre site
+            </mj-button>
+          </mj-column>
+        </mj-section>
+
+        </mj-wrapper>
+      <mj-wrapper padding="0 50px" background-color="#f8f8f8">
+        <mj-section padding="30" padding-top="50" padding-bottom="20" background-color="#f8f8f8">
+          <mj-column>
+            
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="490" src="../img/180725-wei/mosaique.png" padding="0" padding-top="0" padding-bottom="0"
+            />
+            
+            <mj-button href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" background-color="#AA192D" color="white" font-size="14px" height="25px" padding="0px"
+              padding-top="50">
+              Voir l’offre sur notre site
+            </mj-button>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="12" src="../img/fb.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="25" src="../img/insta.jpg" padding="0"
+              padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="22" src="../img/pinterest.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" width="21" src="../img/yt.jpg" padding="0" padding-bottom="0"
+            />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" padding="0" padding-bottom="0" width="26" src="../img/twitter.jpg"/>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="10" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="10" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            * L'offre " -20 % sur votre article préféré " est une offre de remise de 20 % à valoir sur votre article préféré parmi l'ensemble des produits des catalogues Lapeyre en vigueur, pour toute nouvelle commande, valable du 19 septembre au 24 septembre 2018, une seule fois par foyer et pour un seul article pendant toute la durée de l'opération. Offre aussi valable sur lapeyre.fr avec le code IMBATTABLE à utiliser en une seule fois. Offre non cumulable avec d'autres promotions ou remises en cours, notamment la remise aux professionnels, ni avec les avantages de la Carte Club Lapeyre. Offre non valable sur l'éco-mobilier, l'éco-participation, les séries limitées,  les produits points rouges, les commandes en cours et les prestations de service. Offre valable en France métropolitaine.
+
+          </mj-text>
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+LAPEYRE Société par Actions Simplifiée au capital de 20.000.000 € - RCS Nanterre  542 020 862 –  Siège social : Les Miroirs – 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie.
+Lapeyre vous informe que vos informations sont utilisées par nos services pour vous tenir informé de nos offres, nouveautés et actualités. Conformément à la loi dite « informatique et libertés » du 6 janvier 1978, vous disposez d’un droit d’accès de rectification et de suppression des données vous concernant. Ainsi, vous pouvez exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées les informations vous concernant qui sont inexactes, incomplètes, équivoques ou périmées. Vous pouvez également vous opposer, au traitement de vos informations. Pour exercer vos droits, merci d’envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=accroche&utm_content=rentree_generique" style="color:#EA0028; font-style:italic;">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=wei18&utm_term=desabo&utm_content=rentree_generique" style="color:#EA0028; font-style:italic;">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
