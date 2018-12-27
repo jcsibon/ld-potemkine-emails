@@ -1,0 +1,166 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding-top="10">
+        <mj-column>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1" padding-bottom="5px">
+            Lapeyre s’engage auprès de ses clients pros et leur offre un programme dédié.
+          </mj-text>
+          <mj-text padding-top="0" font-size="12" color="#404040" line-height="1">
+            Si vous ne parvenez pas à lire ce message, consultez notre version <a href="http://[A COMPLETER]?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" style="color:#EA0028; font-style:italic;" alias="">en ligne</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="95" src="../img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left"/>
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro/?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="183" src="../img/logo-pro.png" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="101" src="../img/espace.png" padding="0" padding-top="16px"
+              padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="600" src="../img/181227-relance-promesse-pro/banner.jpg" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="10 50px" padding-bottom="40">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="0">
+          <mj-column>
+            <mj-image width="287" src="../img/181227-relance-promesse-pro/title.png" padding="0" padding-top="0" />
+            <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="19" font-weight="400" color="#404040" align="center">Professionnels, de nombreux avantages vous sont réservés : prix attractifs, délais raccourcis… Lapeyre met tout en œuvre pour simplifier votre activité. 
+            </mj-text>
+            
+            <mj-button href="https://www.lapeyre.fr/c/h/lapeyre-pro?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" background-color="#564e42" color="white" font-size="14px" height="25px" padding-top="40px" padding-bottom="5px">
+            Découvrez nos engagements
+          </mj-button>
+          </mj-column>
+        </mj-section>
+        
+        </mj-wrapper>
+      
+      <mj-wrapper padding="0px">
+        <mj-section padding="0" padding-top="0" padding-bottom="0" >
+          <mj-column width="50%">
+            <mj-image width="300" src="../img/181227-relance-promesse-pro/text01.png" padding="0" padding-top="0" />
+          </mj-column>
+            <mj-column width="50%">
+           <mj-image href="https://www.lapeyre.fr/panneau-de-construction-h-250-x-l-90-x-e-5-1230952?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="300" src="../img/181227-relance-promesse-pro/illu01.jpg" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+       <mj-section padding="0" padding-top="0" padding-bottom="0" >
+          <mj-column width="50%">
+            <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="300" src="../img/181227-relance-promesse-pro/illu02.jpg" padding="0" padding-top="0" />
+          </mj-column>
+            <mj-column width="50%">
+           <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="300" src="../img/181227-relance-promesse-pro/text02.png" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+       <mj-section padding="0" padding-top="0" padding-bottom="0" >
+          <mj-column width="50%">
+            <mj-image width="300" src="../img/181227-relance-promesse-pro/text03.png" padding="0" padding-top="0" />
+          </mj-column>
+            <mj-column width="50%">
+           <mj-image href="https://www.lapeyre.fr/c/h/lapeyre-pro?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="300" src="../img/181227-relance-promesse-pro/illu03.jpg" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="0" padding-bottom="0" >
+          <mj-column width="50%">
+            <mj-image href="https://www.lapeyre.fr/c/h/camion-formation?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="300" src="../img/181227-relance-promesse-pro/illu04.jpg" padding="0" padding-top="0" />
+          </mj-column>
+            <mj-column width="50%">
+           <mj-image href="https://www.lapeyre.fr/c/h/camion-formation?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="300" src="../img/181227-relance-promesse-pro/text04.png" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+                <mj-section padding="50" padding-top="20" padding-bottom="0">
+          <mj-column>	
+            
+            <mj-button href="https://www.lapeyre.fr/c/h/lapeyre-pro?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" background-color="#564e42" color="white" font-size="14px" height="25px" padding-top="20px" padding-bottom="45px">
+            Découvrez nos engagements
+          </mj-button>
+          </mj-column>
+        </mj-section>
+                
+        </mj-wrapper>
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://fr-fr.facebook.com/Lapeyre/?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="12" src="../img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="25" src="../img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="22" src="../img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" width="21" src="../img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" padding="0" padding-bottom="0" width="26" src="../img/twitter.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="10" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            * Offre valable dans les magasin suivants : Mantes, Gournay, Creil, Nanterre, Meaux, Herblay, Aubervilliers, Arcueil, Pompadour, Melun, Coignières, Chartres, les Ulis, Grigny, Lyon Limonest, Lyon Saint Priest, Reims, Nancy, Dijon, Amiens, Lille, Orléans, Rouen, Caen, La rochelle, Nice Est, Nice Villeneuve, Fréjus, Toulon, Gémenos, Vitrolles, Montpellier, Bordeaux Lac, Bordeaux Mérignac, Toulouse Nord, Toulouse Sud.
+          </mj-text>
+          
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE, Société par Actions Simplifiée au capital de 20.000.000 € – RCS Nanterre 542 020 862 – Siège social : Les Miroirs - 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie.
+Conformément à la réglementation applicable en matière de données personnelles, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données vous concernant. Pour l’exercer, adressez-vous à Lapeyre Services E-commerce. 2 rue André Karman 93300 Aubervilliers ou envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" style="color:#EA0028; font-style:italic;" alias="">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm_pro&utm_medium=email&utm_campaign=promesse_pro&utm_term=accroche&utm_content=relance_inactif" style="color:#EA0028; font-style:italic;" alias="">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
