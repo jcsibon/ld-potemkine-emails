@@ -1,0 +1,240 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" font-family="Arial" />
+      <mj-container background-color="#fff" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/tous-les-magasins?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="95" src="../img/magasin.png" padding="0" padding-top="16px" padding-left="20" align="left"
+            />
+
+          </mj-column>
+
+          <mj-column width="60%">
+
+            <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="183" src="../img/logo-2019.jpg" padding="0" />
+
+          </mj-column>
+
+          <mj-column width="20%">
+
+            <mj-image href="https://www.lapeyre.fr/LogonForm?catalogId=10151&myAcctMain=1&langId=-2&storeId=10101&=&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="101" src="../img/espace.png" padding="0"
+              padding-top="16px" padding-right="20" align="right" />
+
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      
+      <mj-section padding="0" background-color="#F8F8F8">
+        <mj-column>
+					<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/fenetres-CCU0003/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">Fenêtres</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>  
+<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/portes-CCU0004/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">portes</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+              <mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/cuisine-CCU0001/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">cuisine</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/bain-CCU0002/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">salle de bains</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/placards-dressing-CCU0005/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">rangements</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/escaliers-CCU0006/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">escaliers</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/sols-murs-CCU0007/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">sols et murs</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+<mj-text padding-top="10" padding-bottom="10" padding-left="0" padding-right="0" font-weight="700" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/exterieur-jardin-CCU0008/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="text-transform:uppercase;text-decoration:none;color:#404040; font-size:10px;text-align:center">extérieur</a>
+            </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0" padding-bottom="0">
+        <mj-column>
+
+          <mj-image href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="600" src="../img/1902-newsletter/banner.jpg" padding="0" />
+        </mj-column>
+      </mj-section>
+
+      <mj-wrapper padding="10 50px" padding-bottom="40">
+
+        <mj-section padding="0" padding-top="20" padding-bottom="0">
+          <mj-column>
+            <mj-text padding-top="10" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="700" color="#404040" align="left">
+              Votre imagination est votre seule limite !
+
+            </mj-text>
+            <mj-text padding-top="20" padding-bottom="0" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="left">Votre intérieur est trop petit, vous manquez d’espace et vous vous sentez à l’étroit ? Pas de panique !
+Avec un peu d’ingéniosité, de judicieux conseils
+et de produits biens faits, vous pourrez parfaitement optimiser votre intérieur avec goût. Qui a dit que petits espaces et style étaient incompatibles ?
+            </mj-text>
+            
+            <mj-button href="https://www.lapeyre.fr/c/magazine/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" background-color="#AA192D" color="white" font-size="14px" height="25px" padding-top="40px" padding-bottom="5px">
+            Inspirez-vous
+          </mj-button>
+          </mj-column>
+        </mj-section>
+        
+        </mj-wrapper>
+      
+      <mj-wrapper padding="0px">
+        <mj-section padding="0" padding-top="0" padding-bottom="0" >
+          <mj-column width="50%">
+            <mj-image href="https://www.lapeyre.fr/composition-agile-caviar-denim-CCN1571427/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="300" src="../img/1902-newsletter/illu01.jpg" padding="0" padding-top="0" />
+          </mj-column>
+            <mj-column width="50%">
+           <mj-image width="300" href="https://www.lapeyre.fr/composition-agile-caviar-denim-CCN1571427/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" src="../img/1902-newsletter/text01.png" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="0" padding-bottom="40" >
+          <mj-column width="100%">
+            <mj-image href="https://www.lapeyre.fr/composition-agile-caviar-denim-CCN1571427/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="600" src="../img/1902-newsletter/pic01.jpg" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+          
+          <mj-section padding="0" padding-top="0" padding-bottom="0" >
+          <mj-column width="50%">
+            <mj-image width="300" href="https://www.lapeyre.fr/meuble-salle-bains-sous-vasque-sete-sans-plan-FPC807949/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" src="../img/1902-newsletter/illu02.jpg" padding="0" padding-top="0" />
+            <mj-image width="300" href="https://www.lapeyre.fr/meuble-salle-bains-sous-vasque-sete-sans-plan-FPC807949/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" src="../img/1902-newsletter/text02.png" padding="0" padding-top="0" />
+          </mj-column>
+            <mj-column width="50%">
+           <mj-image href="https://www.lapeyre.fr/meuble-salle-bains-sous-vasque-sete-sans-plan-FPC807949/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="300" src="../img/1902-newsletter/pic02.jpg" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="40" padding-bottom="0" >
+            <mj-column width="50%">
+           <mj-image href="https://www.lapeyre.fr/echelle-london-quart-tournant-bas-sapin-FPC426196/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="300" src="../img/1902-newsletter/pic03.jpg" padding="0" padding-top="0" />
+          </mj-column>
+          <mj-column width="50%">
+            <mj-image width="300"  href="https://www.lapeyre.fr/echelle-london-quart-tournant-bas-sapin-FPC426196/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" src="../img/1902-newsletter/illu03.jpg" padding="0" padding-top="0" />
+            <mj-image width="300" href="https://www.lapeyre.fr/echelle-london-quart-tournant-bas-sapin-FPC426196/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" src="../img/1902-newsletter/text03.png" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="0" padding-bottom="40"  background-color="#F8F8F8" >
+          <mj-column width="100%">
+            <mj-image href="https://www.lapeyre.fr/amenagement-sous-combles-FPC2162120/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="600" src="../img/1902-newsletter/idees.jpg" padding="0" padding-top="0" />
+            
+            <mj-text padding-top="30" padding-bottom="0" padding-left="30" padding-right="30" font-size="20" font-weight="400" color="#404040" align="center" line-height="1.3">
+              Grâce à ces aménagements, ne perdez aucun mètre carré ! Ces agencements vous permettent d’exploiter chaque recoin dont vous disposez et vous offrent de nombreux rangements.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+          
+        <mj-section padding="0" padding-top="0" padding-bottom="20" background-color="#F8F8F8" >
+          <mj-column width="95%" border="1px dashed #404040">
+         <mj-image href="https://www.lapeyre.fr/c/magazine/reponses-experts/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="257" src="../img/1902-newsletter/titre-experts.jpg" padding="0" padding-top="0" />
+            
+            <mj-text padding-top="25" padding-bottom="0" padding-left="30" padding-right="30" font-size="18" font-weight="400" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/c/magazine/preparer-projet/comment-realiser-un-dressing-sur-mesure/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="color:#EA0028; font-style:italic;">
+              Un dressing adapté à la surface dont je dispose ?
+              </a>
+            </mj-text>
+            
+            <mj-text padding-top="25" padding-bottom="40" padding-left="30" padding-right="30" font-size="18" font-weight="400" color="#404040" align="center">
+              <a href="https://www.lapeyre.fr/c/magazine/inspirations-tendances/comment-am%C3%A9nager-de-rangements-sous-un-escalier/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="color:#EA0028; font-style:italic;">
+              Comment investir l’espace sous votre escalier ?
+              </a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="0" padding-bottom="40" >
+          <mj-column width="100%">
+            <mj-image href="https://youtu.be/G0VUeXqsLjg/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="600" src="../img/1902-newsletter/video.jpg" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+        <mj-section padding="0" padding-top="40" padding-bottom="0">
+          <mj-column width="100%">
+            <mj-image href="https://www.lapeyre.fr/c/les-services/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="500" src="../img/1902-newsletter/services.png" padding="0" padding-top="0" />
+          </mj-column>
+        </mj-section>
+        
+
+        <mj-section padding="0" padding-top="20" padding-bottom="0">
+          <mj-column width="100%">
+            <mj-text padding-top="15" padding-bottom="30" padding-left="0" padding-right="0" font-size="20" font-weight="400" color="#404040" align="center">À bientôt sur  <a href="https://www.lapeyre.fr/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="color:#ea0028; font-style:italic;" alias="">www.lapeyre.fr</a> ou en magasin !
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+
+
+
+      <mj-section padding-top="60" padding-bottom="50" background-color="#F8F8F8">
+        <mj-column width="220">
+          <mj-text padding-top="0" padding-bottom="20" padding="0" font-size="18" color="#404040" align="center" line-height="1.3" text-transform="uppercase" font-weight="700">
+            Suivez Lapeyre sur
+          </mj-text>
+        </mj-column>
+
+        <mj-group>
+          <mj-column width="20%">
+            <mj-image href="https://www.facebook.com/Lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="12" src="../img/fb.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.instagram.com/lapeyreofficiel/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="25" src="../img/insta.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://fr.pinterest.com/lapeyre/?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="22" src="../img/pinterest.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://www.youtube.com/user/LapeyreTV?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" width="21" src="../img/yt.jpg" padding="0" padding-bottom="0" />
+          </mj-column>
+          <mj-column width="20%">
+            <mj-image href="https://twitter.com/lapeyreofficiel?lang=fr&utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" padding="0" padding-bottom="0" width="26" src="../img/twitter.jpg" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="10" padding-top="20" border-top="1px solid #D8D8D8" background-color="#F8F8F8">
+        <mj-column>
+          
+          <mj-text padding-top="0" padding-bottom="20" font-size="12" line-height="14px" color="#404040" align="left" font-weight="40">
+            LAPEYRE, Société par Actions Simplifiée au capital de 20.000.000 € – RCS Nanterre 542 020 862 – Siège social : Les Miroirs - 18 avenue d’Alsace - La Défense 3 - 92400 Courbevoie.
+Conformément à la réglementation applicable en matière de données personnelles, vous disposez d’un droit d’accès, de modification, de rectification et de suppression des données vous concernant. Pour l’exercer, adressez-vous à Lapeyre Services E-commerce. 2 rue André Karman 93300 Aubervilliers ou envoyer un e-mail à <a href="mailto:service.client@lapeyre.fr?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="color:#EA0028; font-style:italic;" alias="">service.client@lapeyre.fr</a>.
+          </mj-text>
+
+          <mj-text padding-top="0" padding-bottom="10" font-size="12" line-height="14px" color="#404040" align="center" font-weight="40">
+            Si vous ne souhaitez plus recevoir d’email de la part de Lapeyre, <a href="http://[A COMPLETER]?utm_source=crm&utm_medium=email&utm_campaign=newsletter&utm_term=accroche&utm_content=fev2019" style="color:#EA0028; font-style:italic;" alias="">cliquer ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-container>
+  </mj-body>
+
+</mjml>
